@@ -50,12 +50,17 @@
 
         .player-wrapper {
             background: #121212;
-            padding: 15px;
+            padding: 20px;
             border-radius: 8px;
             border: 1px solid rgba(255, 255, 255, 0.05);
             display: flex;
             justify-content: center;
             align-items: center;
+        }
+
+        audio {
+            width: 100%;
+            outline: none;
         }
 
         footer {
@@ -73,8 +78,11 @@
         <p>Transmisión en vivo</p>
         
         <div class="player-wrapper">
-            <!-- Reproductor MyRadioStream -->
-            <script src="//myradiostream.com/embed/Altimiras2001"></script>
+            <!-- Reproductor de audio directo compatible con streaming -->
+            <audio controls preload="none">
+                <source src="https://sonic.myradiostream.com/listen/Altimiras2001/stream" type="audio/mpeg">
+                Tu navegador no soporta el elemento de audio.
+            </audio>
         </div>
     </div>
 
