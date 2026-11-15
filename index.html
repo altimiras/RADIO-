@@ -275,3 +275,280 @@ button {
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radio Altimiras</title>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px 14px;
+  min-height: 100vh;
+  background: #101216;
+  color: #f3f4f6;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  width: 100%;
+  max-width: 520px;
+  margin: auto;
+  padding: 20px;
+  background: #1b1f25;
+  border: 1px solid #303640;
+  border-radius: 16px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 23px;
+  margin: 0 0 20px;
+}
+
+#cover {
+  display: block;
+  width: min(100%, 330px);
+  aspect-ratio: 1;
+  object-fit: cover;
+  margin: auto auto 18px;
+  border-radius: 10px;
+  background: #292f38;
+}
+
+#songTitle {
+  text-align: center;
+  font-size: 21px;
+  font-weight: bold;
+  margin: 0;
+}
+
+#songGenre {
+  text-align: center;
+  color: #b7c0cc;
+  margin: 6px 0 18px;
+}
+
+audio {
+  width: 100%;
+  margin: 5px 0 15px;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+button {
+  border: 0;
+  border-radius: 9px;
+  padding: 11px 17px;
+  color: white;
+  background: #35465c;
+  font-size: 16px;
+}
+
+#lyrics {
+  display: none;
+  margin-top: 16px;
+  padding: 14px;
+  border-radius: 10px;
+  background: #12161b;
+  white-space: pre-wrap;
+  line-height: 1.6;
+}
+
+#status {
+  text-align: center;
+  color: #aeb8c5;
+  font-size: 14px;
+  margin-top: 15px;
+}
+</style>
+</head>
+
+<body>
+<main>
+
+<h1>Radio Altimiras</h1>
+
+<img
+  id="cover"
+  src="imagenes/placeholder.svg"
+  alt="Carátula de la canción"
+>
+
+<p id="songTitle">Preparando canciones...</p>
+<p id="songGenre"></p>
+
+<audio id="player" controls preload="metadata"></audio>
+
+<div class="controls">
+  <button id="previous">Anterior</button>
+  <button id="next">Siguiente</button>
+  <button id="lyricsButton" hidden>Ver letra</button>
+</div>
+
+<section id="lyrics"></section>
+
+<p id="status">Cargando programación...</p>
+
+</main>
+
+<script>
+(async function() {
+
+  const player = document.getElementById("player");
+  const cover = document.getElementById("cover");
+  const title = document.getElementById("songTitle");
+  const genre = document.getElementById("songGenre");
+  const lyricsButton = document.getElementById("lyricsButton");
+  const lyricsBox = document.getElementById("lyrics");
+  const status = document.getElementById("status");
+
+  let songs = [];
+  let current = 0;
+
+  const placeholder = "imagenes/placeholder.svg";
+
+  function setLyrics(text) {
+
+    const hasLyrics =
+      typeof text === "string" &&
+      text.trim().length > 0;
+
+    lyricsButton.hidden = !hasLyrics;
+
+    lyricsBox.style.display = "none";
+    lyricsBox.textContent = hasLyrics ? text : "";
+
+    lyricsButton.textContent = "Ver letra";
+  }
+
+  function preloadNextCover() {
+
+    if (songs.length < 2) return;
+
+    const nextSong = songs[(current + 1) % songs.length];
+
+    const image = new Image();
+
+    image.src = nextSong.caratula || placeholder;
+  }
+
+  function showSong(index, autoplay) {
+
+    if (!songs.length) return;
+
+    current = (index + songs.length) % songs.length;
+
+    const song = songs[current];
+
+    title.textContent = song.titulo || "Sin título";
+
+    genre.textContent = song.ritmo || "";
+
+    setLyrics(song.letra || "");
+
+    cover.onerror = function() {
+      cover.onerror = null;
+      cover.src = placeholder;
+    };
+
+    cover.src = song.caratula || placeholder;
+
+    player.src = song.archivo;
+    player.load();
+
+    status.textContent =
+      "Canción " + (current + 1) +
+      " de " + songs.length;
+
+    preloadNextCover();
+
+    if (autoplay) {
+
+      const attempt = player.play();
+
+      if (attempt && attempt.catch) {
+        attempt.catch(function() {
+          status.textContent +=
+            " · Pulsa reproducir si es necesario";
+        });
+      }
+    }
+  }
+
+  document.getElementById("previous")
+    .addEventListener("click", function() {
+      showSong(current - 1, true);
+    });
+
+  document.getElementById("next")
+    .addEventListener("click", function() {
+      showSong(current + 1, true);
+    });
+
+  player.addEventListener("ended", function() {
+    showSong(current + 1, true);
+  });
+
+  player.addEventListener("error", function() {
+    status.textContent =
+      "No se pudo cargar esta canción. Puedes pasar a la siguiente.";
+  });
+
+  lyricsButton.addEventListener("click", function() {
+
+    const opening = lyricsBox.style.display !== "block";
+
+    lyricsBox.style.display = opening ? "block" : "none";
+
+    lyricsButton.textContent =
+      opening ? "Ocultar letra" : "Ver letra";
+  });
+
+  try {
+
+    const response = await fetch(
+      "playlist.json",
+      {cache: "no-store"}
+    );
+
+    if (!response.ok) {
+      throw new Error("No se pudo leer playlist.json");
+    }
+
+    const data = await response.json();
+
+    songs = Array.isArray(data)
+      ? data
+      : data.canciones;
+
+    if (!Array.isArray(songs) || songs.length === 0) {
+      throw new Error("La programación no contiene canciones");
+    }
+
+    showSong(0, false);
+
+  } catch(error) {
+
+    title.textContent = "No se pudo iniciar la radio";
+    status.textContent = error.message;
+
+  }
+
+})();
+</script>
+
+</body>
+</html>
