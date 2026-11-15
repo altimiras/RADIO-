@@ -1,17 +1,18 @@
 
 {
+  "version": "1.2",
   "canciones": [
     {
       "titulo": "Agua salada",
       "ritmo": "Baladas",
-      "archivo": "https://github.com/altimiras/Z/blob/main/Mp3/Rock/El%20comp%C3%A1s%20que%20gira.mp3",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Agua%20salada.mp3",
       "caratula": "imagenes/agua-salada.jpg",
       "letra": "Aqui va la letra de la canción"
     },
     {
       "titulo": "Mi suegra",
       "ritmo": "Cumbia",
-      "archivo": https://github.com/altimiras/Z/blob/main/Mp3/Cumbia/Mi%20suegra.mp3",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Mi%20suegra.mp3",
       "caratula": null,
       "letra": ""
     }
