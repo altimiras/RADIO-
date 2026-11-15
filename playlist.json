@@ -1,24 +1,59 @@
+
 {
   "canciones": [
     {
       "titulo": "Agua salada",
       "ritmo": "Baladas",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Agua%20salada.mp3"
+      "archivo": "https://github.com/altimiras/Z/blob/main/Mp3/Rock/El%20comp%C3%A1s%20que%20gira.mp3",
+      "caratula": "imagenes/agua-salada.jpg",
+      "letra": "A[Instrumental Intro]
+[Slow ambient texture, vintage analog organ pads, 60 bpm]
+[Sparse minimalist bass notes]
+
+[Instrumental Verse]
+[Subtle halftime drums enter, steady dark atmosphere]
+[Sustained melancholic keyboard chords building tension]
+
+[Spoken word over slow ambient]
+El tiempo se estira en la ruta gris...
+sombras largas bajo el metal.
+
+[Multi-voice harmony enters]
+[Tempo shift to steady marching beat]
+Un pulso antiguo que vuelve a latir,
+un destello ciego en la oscuridad.
+[Acoustic guitar fingerpicking enters]
+[Atmospheric choir swell]
+[Sustained organ pads]
+Nadie responde, el viento es igual...
+solo el compás que empieza a girar.
+[Acoustic guitar fingerpicking enters]
+[Choral outro fading]
+[Halftime transition, slow crawl]
+
+[Tempo shift to steady marching beat]
+[Heavy rhythmic bassline joins]
+[Driving electric guitar sustain with massive reverb]
+[Mid-tempo rhythmic transition]
+
+[Instrumental Bridge]
+[Sudden drop in volume, minimal eerie organ solo]
+[Drums fade out, sparse percussion only]
+
+[Halftime transition, slow crawl]
+[Atmospheric synth pads returning]
+[Deep melancholic organ chords]
+
+[Instrumental Outro]
+[Gradual fade to absolute silence]
+[Final isolated organ note echoing]"
     },
     {
       "titulo": "Mi suegra",
       "ritmo": "Cumbia",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Mi%20suegra.mp3"
-    },
-    {
-      "titulo": "El compás que gira",
-      "ritmo": "Rock",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/El%20comp%C3%A1s%20que%20gira.mp3"
-    },
-    {
-      "titulo": "Aquel verano",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Aquel%20verano.mp3"
+      "archivo": https://github.com/altimiras/Z/blob/main/Mp3/Cumbia/Mi%20suegra.mp3",
+      "caratula": null,
+      "letra": ""
     }
   ]
 }
