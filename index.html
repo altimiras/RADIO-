@@ -123,7 +123,7 @@ button {
 
 <section id="lyrics"></section>
 
-<p id="status">Cargando playlist...</p>
+<p id="status">Cargando programación...</p>
 
 </main>
 
@@ -139,12 +139,9 @@ button {
   const status = document.getElementById("status");
 
   let songs = [];
-  let contents = {};
   let current = 0;
 
-  function songKey(song) {
-    return (song.titulo || "").trim().toLocaleLowerCase("es");
-  }
+  const placeholder = "imagenes/placeholder.svg";
 
   function setLyrics(text) {
 
@@ -166,11 +163,9 @@ button {
 
     const nextSong = songs[(current + 1) % songs.length];
 
-    const extra = contents[songKey(nextSong)] || {};
-
     const image = new Image();
 
-    image.src = extra.caratula || "imagenes/placeholder.svg";
+    image.src = nextSong.caratula || placeholder;
   }
 
   function showSong(index, autoplay) {
@@ -181,22 +176,18 @@ button {
 
     const song = songs[current];
 
-    const extra = contents[songKey(song)] || {};
-
     title.textContent = song.titulo || "Sin título";
 
-    genre.textContent =
-      song.ritmo || song.genero || "";
+    genre.textContent = song.ritmo || "";
 
-    setLyrics(extra.letra || "");
+    setLyrics(song.letra || "");
 
     cover.onerror = function() {
       cover.onerror = null;
-      cover.src = "imagenes/placeholder.svg";
+      cover.src = placeholder;
     };
 
-    cover.src =
-      extra.caratula || "imagenes/placeholder.svg";
+    cover.src = song.caratula || placeholder;
 
     player.src = song.archivo;
     player.load();
@@ -251,30 +242,23 @@ button {
 
   try {
 
-    const responses = await Promise.all([
-      fetch("playlist.json", {cache: "no-store"}),
-      fetch("contenidos.json", {cache: "no-store"})
-    ]);
+    const response = await fetch(
+      "playlist.json",
+      {cache: "no-store"}
+    );
 
-    if (!responses[0].ok) {
+    if (!response.ok) {
       throw new Error("No se pudo leer playlist.json");
     }
 
-    if (!responses[1].ok) {
-      throw new Error("No se pudo leer contenidos.json");
-    }
+    const data = await response.json();
 
-    const playlistData = await responses[0].json();
-    const contentsData = await responses[1].json();
-
-    songs = Array.isArray(playlistData)
-      ? playlistData
-      : playlistData.canciones;
-
-    contents = contentsData.canciones || contentsData;
+    songs = Array.isArray(data)
+      ? data
+      : data.canciones;
 
     if (!Array.isArray(songs) || songs.length === 0) {
-      throw new Error("La playlist no contiene canciones");
+      throw new Error("La programación no contiene canciones");
     }
 
     showSong(0, false);
