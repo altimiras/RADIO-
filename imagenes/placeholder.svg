@@ -1,1 +1,22 @@
 
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 600 600">
+
+<rect width="600" height="600" fill="#252d38"/>
+
+<circle cx="300" cy="245" r="105"
+        fill="#3c5068"/>
+
+<path d="M90 470 Q300 300 510 470 V600 H90Z"
+      fill="#35465c"/>
+
+<text x="300" y="530"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="34"
+      fill="#eef2f7">
+RADIO ALTIMIRAS
+</text>
+
+</svg>
+
