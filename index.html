@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radio Altimiras</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 560px;
+      margin: 40px auto;
+      padding: 0 18px;
+      line-height: 1.5;
+    }
+    h1 { font-size: 1.4rem; }
+    audio { display: block; width: 100%; margin: 16px 0; }
+    #estado { color: #555; font-size: .95rem; }
+    #posicion { color: #666; font-size: .9rem; }
+  </style>
+</head>
+<body>
+  <h1>Radio Altimiras</h1>
+  <p id="titulo"><strong>Cargando playlist…</strong></p>
+  <p id="posicion"></p>
+
+  <audio id="audio" controls preload="metadata"></audio>
+  <p id="estado">Preparando canciones.</p>
+
+  <script>
+    const audio = document.getElementById('audio');
+    const titulo = document.getElementById('titulo');
+    const posicion = document.getElementById('posicion');
+    const estado = document.getElementById('estado');
+
+    let canciones = [];
+    let indice = 0;
+
+    async function iniciar() {
+      try {
+        const respuesta = await fetch('./playlist.json', { cache: 'no-store' });
+        if (!respuesta.ok) throw new Error(`No se pudo leer playlist.json (${respuesta.status})`);
+        const datos = await respuesta.json();
+        if (!Array.isArray(datos.canciones) || datos.canciones.length === 0) {
+          throw new Error('La playlist no contiene canciones.');
+        }
+        canciones = datos.canciones;
+        cargarCancion(0);
+        estado.textContent = 'Playlist lista. Pulsa PLAY para comenzar.';
+      } catch (error) {
+        estado.textContent = `Error: ${error.message}`;
+        titulo.textContent = 'No se pudo cargar la programación.';
+      }
+    }
+
+    function cargarCancion(nuevoIndice) {
+      indice = (nuevoIndice + canciones.length) % canciones.length;
+      const cancion = canciones[indice];
+      titulo.textContent = `${cancion.titulo} — ${cancion.ritmo}`;
+      posicion.textContent = `Canción ${indice + 1} de ${canciones.length}`;
+      audio.src = cancion.archivo;
+      audio.load();
+    }
+
+    audio.addEventListener('ended', () => {
+      cargarCancion(indice + 1);
+      audio.play().catch(() => {
+        estado.textContent = 'La siguiente canción está lista. Pulsa PLAY para continuar.';
+      });
+    });
+
+    audio.addEventListener('playing', () => {
+      estado.textContent = 'Reproduciendo.';
+    });
+    audio.addEventListener('pause', () => {
+      if (!audio.ended) estado.textContent = 'En pausa.';
+    });
+    audio.addEventListener('waiting', () => {
+      estado.textContent = 'Cargando audio…';
+    });
+    audio.addEventListener('error', () => {
+      estado.textContent = 'No se pudo cargar esta canción. Puedes avanzar con los controles del reproductor.';
+    });
+
+    iniciar();
+  </script>
+</body>
+</html>
