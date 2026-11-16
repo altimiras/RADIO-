@@ -2,6 +2,13 @@
   "version": "1.2",
   "canciones": [
     {
+      "titulo": "RA",
+      "ritmo": "Webeo",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Webeo/RA.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/RA.jpg",
+      "letra": ""
+    },
+    {
       "titulo": "Abre la puerta",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Abre%20la%20puerta.mp3",
@@ -23,17 +30,24 @@
       "letra": ""
     },
     {
+      "titulo": "RA",
+      "ritmo": "Webeo",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Webeo/RA.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/RA.jpg",
+      "letra": ""
+    },
+    {
       "titulo": "Aquella chica del café ",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Aquella%20chica%20del%20caf%C3%A9%20.mp3",
-      "caratula": null,
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Aquella%20chica%20del%20caf%C3%A9.jpg",
       "letra": ""
     },
     {
       "titulo": "Aquella Noche",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Aquella%20Noche.mp3",
-      "caratula": null,
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Aquella%20Noche.jpg",
       "letra": "AQUELLA NOCHE\n\n[Intro instrumental – guitarra eléctrica con trémolo, bajo y batería suave]\n\n[Verso 1 – voz masculina íntima]\n\nLa calle gris,\nla luna y tú.\nUn viejo bar,\nsu tenue luz.\n\nTe vi llegar,\nte vi mirar.\nY algo en mí\nvolvió a despertar.\n\n[Verso 2]\n\nTu caminar,\ntu forma de ser.\nTu pelo al viento,\ntu manera de ver.\n\nNo hubo palabras,\nno hubo razón.\nSolo una mirada\ny una extraña emoción.\n\n[Instrumental – guitarra con trémolo y bajo melódico]\n\n[Verso 3]\n\nPasó el reloj,\nla noche siguió.\nLa gente se fue,\nla música terminó.\n\nY allí quedé,\nsin comprender,\npor qué tu imagen\nno podía perder.\n\n[Puente – misma voz, eco sutil]\n\nAquella noche...\nAquella noche...\n\nVolverá quizás...\nVolverá quizás...\n\n[Verso 4 – voz suave, ligeramente ondulante]\n\nHoy vuelvo al bar,\nla misma canción.\nLa misma mesa,\nla misma ilusión.\n\nPero no estás,\nya no vendrás.\nY aquella noche\nno volverá jamás.\n\n[Outro – guitarra con trémolo y voz con eco]\n\nAquella noche...\nAquella noche...\n\nNo volverá...\nNo volverá...\n\n[Fade out instrumental largo]"
     },
     {
@@ -47,7 +61,7 @@
       "titulo": "Bajo las luces del salón ",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Bajo%20las%20luces%20del%20sal%C3%B3n%20.mp3",
-      "caratula": null,
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Bajo%20las%20luces%20del%20sal%C3%B3n.jpg",
       "letra": ""
     },
     {
@@ -75,7 +89,7 @@
       "titulo": "Cuando te perdí ",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Cuando%20te%20perd%C3%AD%20.mp3",
-      "caratula": null,
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Cuando%20te%20perd%C3%AD.jpg",
       "letra": ""
     },
     {
@@ -89,14 +103,14 @@
       "titulo": "Dime Cositas Dulces",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Dime%20Cositas%20Dulces.mp3",
-      "caratula": null,
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Dime%20Cositas%20Dulces.jpg",
       "letra": "[Intro]\n\n[Verse 1]\nEsta noche vas a venir,\ny no me dejes esperar,\nya la luna va a salir\ny yo quiero verte bailar\n\n[Chorus]\nDime cositas dulces,\ndímelas al oído,\ndime cositas dulces,\nesta noche eres mío\n\n[Verse 2]\nLa radio suena sin parar,\ntraigo puesto mi vestido,\ny mi pecho está encendido,\ny quiero esta noche bailar\n\n[Chorus]\nDime cositas dulces,\ndímelas al oído,\ndime cositas dulces,\nesta noche eres mío\n\n[Instrumental break: saxophone solo]\n\n[Bridge]\nUna noche, nada más,\npara quererte sin fin,\nmañana ya se verá,\nhoy me toca ser feliz\n\n[Chorus]\nDime cositas dulces,\ndímelas al oído,\ndime cositas dulces,\nesta noche eres mío\n\n[Outro]\nDulces cositas, sí,\nesta noche, eres mío"
     },
     {
       "titulo": "Dime qué sí ",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Dime%20qu%C3%A9%20s%C3%AD%20.mp3",
-      "caratula": null,
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Dime%20qu%C3%A9%20s%C3%AD.jpg",
       "letra": ""
     },
     {
@@ -110,14 +124,14 @@
       "titulo": "El sol nos encontrará ",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/El%20sol%20nos%20encontrar%C3%A1%20.mp3",
-      "caratula": null,
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20sol%20nos%20encontrar%C3%A1.jpg",
       "letra": ""
     },
     {
       "titulo": "Esta Noche",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Esta%20Noche.mp3",
-      "caratula": null,
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Esta%20Noche.jpg",
       "letra": "[Intro]\n\n[Verse 1]\nHoy la noche tiene su son,\ny me llama mi corazón,\nme voy con ganas de bailar,\ny en tus brazos voy a soñar\n\n[Chorus]\nEsta noche, esta noche,\nbaila, baila conmigo,\nesta noche, esta noche,\nyo me quedo contigo\n\n[Verse 2]\nTengo un vestido de color,\ny en mi pelo traigo una flor,\nel reloj no puede frenar,\nhoy nadie me puede parar\n\n[Chorus]\nEsta noche, esta noche,\nbaila, baila conmigo,\nesta noche, esta noche,\nyo me quedo contigo\n\n[Instrumental break: saxophone solo]\n\n[Bridge]\nMañana no sé qué haré,\nhoy solo quiero bailar,\npero esta noche, lo sé,\nes la noche de soñar\n\n[Chorus]\nEsta noche, esta noche,\nbaila, baila conmigo,\nesta noche, esta noche,\nyo me quedo contigo\n\n[Outro]\nEsta noche, esta noche,\nyo me quedo contigo"
     },
     {
@@ -159,7 +173,7 @@
       "titulo": "Luces que tiemblan",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Luces%20que%20tiemblan.mp3",
-      "caratula": null,
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Luces%20que%20tiemblan.jpg",
       "letra": "LUCES QUE TIEMBLAN\n\n\n\n[Verso 1 – voz masculina íntima]\n\nTe vi pasar,\ncasi sin mirar.\nLa noche azul,\nte envolvía de luz.\n\nY sin saber,\npor qué razón,\nalgo cambió\nen mi interior.\n\n[Segunda voz – eco suave]\nEn mi interior...\nEn mi interior...\n\n[Verso 2 – voz principal]\n\nNo pregunté,\nno quise hablar.\nSolo esperé\nverte regresar.\n\nHabía en ti,\nalgo especial.\nUna señal\ndifícil de explicar.\n\n[Coros masculinos suaves]\nDifícil de explicar...\nDe explicar...\n\n[Instrumental – guitarra con trémolo, órgano discreto]\n\n[Verso 3 – voz principal]\n\nY al caminar,\nte vi sonreír.\nPor un instante\nte sentí junto a mí.\n\nNo sé quién eres,\nni dónde vas.\nPero esta noche\nno te olvidarás.\n\n[Puente – voces superpuestas]\n\nVoz principal:\nQuédate un poco más...\n\nSegunda voz:\nUn poco más...\n\nVoz principal:\nDéjame imaginar...\n\nSegunda voz:\nImaginar...\n\n[Final – crescendo instrumental y vocal]\n\nVoz principal:\nHay luces que tiemblan...\n\nCoros:\nQue tiemblan...\nQue tiemblan...\n\nVoz principal:\nHay sueños que vuelven...\n\nCoros:\nQue vuelven...\nQue vuelven...\n\n[Outro – voces con trémolo creciente, eco y superposición]\n\nAaaaaah... aaaaaah...\nUuuuuuh... uuuuuuh...\n\nLuces... luces...\nQue tiemblan...\nQue tiemblan...\n\n[Fade out largo con guitarra y voces ondulantes]"
     },
     {
@@ -187,7 +201,7 @@
       "titulo": "Se me escapa ésta canción ",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Se%20me%20escapa%20%C3%A9sta%20canci%C3%B3n%20.mp3",
-      "caratula": null,
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Se%20me%20escapa%20%C3%A9sta%20canci%C3%B3n.jpg",
       "letra": ""
     },
     {
@@ -243,7 +257,7 @@
       "titulo": "Y no estás ",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Y%20no%20est%C3%A1s%20.mp3",
-      "caratula": null,
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Y%20no%20est%C3%A1s.jpg",
       "letra": ""
     }
   ]
