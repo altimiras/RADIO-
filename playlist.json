@@ -10,6 +10,78 @@
       "duracion": 16.5
     },
     {
+      "titulo": "Abre la puerta",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Abre%20la%20puerta.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Abre%20la%20puerta.jpg",
+      "letra": "",
+      "duracion": 240
+    },
+    {
+      "titulo": "Amanece",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Amanece.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Amanece.jpg",
+      "letra": "",
+      "duracion": 198.6
+    },
+    {
+      "titulo": "Aquel verano",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Aquel%20verano.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Aquel%20verano.jpg",
+      "letra": "",
+      "duracion": 205.1
+    },
+    {
+      "titulo": "Aquella chica del café ",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Aquella%20chica%20del%20caf%C3%A9%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Aquella%20chica%20del%20caf%C3%A9.jpg",
+      "letra": "",
+      "duracion": 211.3
+    },
+    {
+      "titulo": "Aquella Noche",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Aquella%20Noche.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Aquella%20Noche.jpg",
+      "letra": "AQUELLA NOCHE\n\n[Intro instrumental – guitarra eléctrica con trémolo, bajo y batería suave]\n\n[Verso 1 – voz masculina íntima]\n\nLa calle gris,\nla luna y tú.\nUn viejo bar,\nsu tenue luz.\n\nTe vi llegar,\nte vi mirar.\nY algo en mí\nvolvió a despertar.\n\n[Verso 2]\n\nTu caminar,\ntu forma de ser.\nTu pelo al viento,\ntu manera de ver.\n\nNo hubo palabras,\nno hubo razón.\nSolo una mirada\ny una extraña emoción.\n\n[Instrumental – guitarra con trémolo y bajo melódico]\n\n[Verso 3]\n\nPasó el reloj,\nla noche siguió.\nLa gente se fue,\nla música terminó.\n\nY allí quedé,\nsin comprender,\npor qué tu imagen\nno podía perder.\n\n[Puente – misma voz, eco sutil]\n\nAquella noche...\nAquella noche...\n\nVolverá quizás...\nVolverá quizás...\n\n[Verso 4 – voz suave, ligeramente ondulante]\n\nHoy vuelvo al bar,\nla misma canción.\nLa misma mesa,\nla misma ilusión.\n\nPero no estás,\nya no vendrás.\nY aquella noche\nno volverá jamás.\n\n[Outro – guitarra con trémolo y voz con eco]\n\nAquella noche...\nAquella noche...\n\nNo volverá...\nNo volverá...\n\n[Fade out instrumental largo]",
+      "duracion": 224.9
+    },
+    {
+      "titulo": "Bajando",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Bajando.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Bajando.jpg",
+      "letra": "[Instrumental Intro – 16 bars]\n[Clean electric guitar introduces the main melodic motif]\n\n[Main Theme A – 16 bars]\n[Melodic lead guitar, bass and drums enter]\n\n[Theme B – 16 bars]\n[Higher melodic phrases, second guitar responses]\n\n[Electric Guitar Solo – 16 bars]\n[Expressive vintage tremolo and melodic variations]\n\n[Return to Main Theme A – 16 bars]\n[Full band, bass stronger dynamics]\n\n[Outro – 8 bars]\n[Main melodic motif returns]\n[Descending guitar phrase]\n[Final sustained F#m chord]",
+      "duracion": 195.1
+    },
+    {
+      "titulo": "Bajo las luces del salón ",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Bajo%20las%20luces%20del%20sal%C3%B3n%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Bajo%20las%20luces%20del%20sal%C3%B3n.jpg",
+      "letra": "",
+      "duracion": 187
+    },
+    {
+      "titulo": "Calcetineras",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Calcetineras.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Calcetineras.jpg",
+      "letra": "",
+      "duracion": 129.3
+    },
+    {
+      "titulo": "Chica del portal",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Chica%20del%20portal.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Chica%20del%20portal.jpg",
+      "letra": "",
+      "duracion": 151.6
+    },
+    {
       "titulo": "Chica yo-yo",
       "ritmo": "Años 60s",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Chica%20yo-yo.mp3",
@@ -18,28 +90,708 @@
       "duracion": 132.3
     },
     {
-      "titulo": "Radio-Cumbia",
-      "ritmo": "Cumbia",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Radio-Cumbia.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Radio-Cumbia.jpg",
+      "titulo": "Cuando te perdí ",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Cuando%20te%20perd%C3%AD%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Cuando%20te%20perd%C3%AD.jpg",
       "letra": "",
-      "duracion": 62.5
+      "duracion": 284.6
     },
     {
-      "titulo": "en el Cesfam",
-      "ritmo": "Cumbia",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/en%20el%20Cesfam.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/en%20el%20Cesfam.jpg",
+      "titulo": "Descendente",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Descendente.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Descendente.jpg",
       "letra": "",
-      "duracion": 262.4
+      "duracion": 180
     },
     {
-      "titulo": "El negro de la feria",
-      "ritmo": "Cumbia",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/El%20negro%20de%20la%20feria.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20negro%20de%20la%20feria.jpg",
+      "titulo": "Dime Cositas Dulces",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Dime%20Cositas%20Dulces.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Dime%20Cositas%20Dulces.jpg",
+      "letra": "[Intro]\n\n[Verse 1]\nEsta noche vas a venir,\ny no me dejes esperar,\nya la luna va a salir\ny yo quiero verte bailar\n\n[Chorus]\nDime cositas dulces,\ndímelas al oído,\ndime cositas dulces,\nesta noche eres mío\n\n[Verse 2]\nLa radio suena sin parar,\ntraigo puesto mi vestido,\ny mi pecho está encendido,\ny quiero esta noche bailar\n\n[Chorus]\nDime cositas dulces,\ndímelas al oído,\ndime cositas dulces,\nesta noche eres mío\n\n[Instrumental break: saxophone solo]\n\n[Bridge]\nUna noche, nada más,\npara quererte sin fin,\nmañana ya se verá,\nhoy me toca ser feliz\n\n[Chorus]\nDime cositas dulces,\ndímelas al oído,\ndime cositas dulces,\nesta noche eres mío\n\n[Outro]\nDulces cositas, sí,\nesta noche, eres mío",
+      "duracion": 152.7
+    },
+    {
+      "titulo": "Dime qué sí ",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Dime%20qu%C3%A9%20s%C3%AD%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Dime%20qu%C3%A9%20s%C3%AD.jpg",
       "letra": "",
-      "duracion": 214
+      "duracion": 172.4
+    },
+    {
+      "titulo": "Donde te escondes",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Donde%20te%20escondes.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Donde%20te%20escondes.jpg",
+      "letra": "",
+      "duracion": 198.5
+    },
+    {
+      "titulo": "El sol nos encontrará ",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/El%20sol%20nos%20encontrar%C3%A1%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20sol%20nos%20encontrar%C3%A1.jpg",
+      "letra": "",
+      "duracion": 237.4
+    },
+    {
+      "titulo": "Esta Noche",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Esta%20Noche.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Esta%20Noche.jpg",
+      "letra": "[Intro]\n\n[Verse 1]\nHoy la noche tiene su son,\ny me llama mi corazón,\nme voy con ganas de bailar,\ny en tus brazos voy a soñar\n\n[Chorus]\nEsta noche, esta noche,\nbaila, baila conmigo,\nesta noche, esta noche,\nyo me quedo contigo\n\n[Verse 2]\nTengo un vestido de color,\ny en mi pelo traigo una flor,\nel reloj no puede frenar,\nhoy nadie me puede parar\n\n[Chorus]\nEsta noche, esta noche,\nbaila, baila conmigo,\nesta noche, esta noche,\nyo me quedo contigo\n\n[Instrumental break: saxophone solo]\n\n[Bridge]\nMañana no sé qué haré,\nhoy solo quiero bailar,\npero esta noche, lo sé,\nes la noche de soñar\n\n[Chorus]\nEsta noche, esta noche,\nbaila, baila conmigo,\nesta noche, esta noche,\nyo me quedo contigo\n\n[Outro]\nEsta noche, esta noche,\nyo me quedo contigo",
+      "duracion": 148
+    },
+    {
+      "titulo": "Hasta el amanecer",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Hasta%20el%20amanecer.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Hasta%20el%20amanecer.jpg",
+      "letra": "",
+      "duracion": 150.4
+    },
+    {
+      "titulo": "Huellas de aquel lugar",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Huellas%20de%20aquel%20lugar.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Huellas%20de%20aquel%20lugar.jpg",
+      "letra": "",
+      "duracion": 293.6
+    },
+    {
+      "titulo": "Juanito Despistadito",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Juanito%20Despistadito.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Juanito%20Despistadito.jpg",
+      "letra": "[Intro]\n[Spoken female voice]\n¡Uno, dos!\n¡Uno, dos, tres, cuatro!\n¡Hey! ¡Hey!\n\n[Verse 1]\n[G] Les contaré de mi novio Juan,\n[G] siempre me dice que llegará.\n[G] Pero una hora suele tardar,\n[G] y cuando llega se pone a bailar.\n\n[Chant – Group backing vocals]\n[C] ¡Ay, Juanito!\n[G] ¡Ay, Juanito!\n[D] ¡Ay, Juanito!\n[C] ¡Ay, Juanito!\n[G] ¡Qué despistadito!\n\n[Verse 2]\n[G] Le di una cita junto al café,\n[G] llegó a la plaza, ¡no sé por qué!\n[G] Buscó mi cara por todo el lugar,\n[G] ¡y yo en la mesa lo vi pasar!\n\n[Chant – Group backing vocals]\n[C] ¡Ay, Juanito!\n[G] ¡Ay, Juanito!\n[D] ¡Ay, Juanito!\n[C] ¡Ay, Juanito!\n[G] ¡Qué despistadito!\n\n[Instrumental]\n[Driving bass riff, electric guitar solo, drums]\n\n[Verse 3]\n[G] Ayer me dijo: te invitaré,\n[G] a una cenita, te llevaré.\n[G] Llegó con flores, ¡qué emoción!\n[G] ¡Y se olvidó hasta del pantalón!\n\n[Chant – Group backing vocals]\n[C] ¡Ay, Juanito!\n[G] ¡Ay, Juanito!\n[D] ¡Ay, Juanito!\n[C] ¡Ay, Juanito!\n[G] ¡Qué despistadito!\n\n[Outro]\n[G] ¡Ay, Juanito!\n[G] ¡Ay, Juanito!\n[C] ¡Pobre Juan!\n[G] ¡Ja, ja, ja!",
+      "duracion": 116.5
+    },
+    {
+      "titulo": "Junto a mi",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Junto%20a%20mi.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Junto%20a%20mi.jpg",
+      "letra": "",
+      "duracion": 169
+    },
+    {
+      "titulo": "La luz de aquel farol",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/La%20luz%20de%20aquel%20farol.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/La%20luz%20de%20aquel%20farol.jpg",
+      "letra": "",
+      "duracion": 256.4
+    },
+    {
+      "titulo": "Luces que tiemblan",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Luces%20que%20tiemblan.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Luces%20que%20tiemblan.jpg",
+      "letra": "LUCES QUE TIEMBLAN\n\n\n\n[Verso 1 – voz masculina íntima]\n\nTe vi pasar,\ncasi sin mirar.\nLa noche azul,\nte envolvía de luz.\n\nY sin saber,\npor qué razón,\nalgo cambió\nen mi interior.\n\n[Segunda voz – eco suave]\nEn mi interior...\nEn mi interior...\n\n[Verso 2 – voz principal]\n\nNo pregunté,\nno quise hablar.\nSolo esperé\nverte regresar.\n\nHabía en ti,\nalgo especial.\nUna señal\ndifícil de explicar.\n\n[Coros masculinos suaves]\nDifícil de explicar...\nDe explicar...\n\n[Instrumental – guitarra con trémolo, órgano discreto]\n\n[Verso 3 – voz principal]\n\nY al caminar,\nte vi sonreír.\nPor un instante\nte sentí junto a mí.\n\nNo sé quién eres,\nni dónde vas.\nPero esta noche\nno te olvidarás.\n\n[Puente – voces superpuestas]\n\nVoz principal:\nQuédate un poco más...\n\nSegunda voz:\nUn poco más...\n\nVoz principal:\nDéjame imaginar...\n\nSegunda voz:\nImaginar...\n\n[Final – crescendo instrumental y vocal]\n\nVoz principal:\nHay luces que tiemblan...\n\nCoros:\nQue tiemblan...\nQue tiemblan...\n\nVoz principal:\nHay sueños que vuelven...\n\nCoros:\nQue vuelven...\nQue vuelven...\n\n[Outro – voces con trémolo creciente, eco y superposición]\n\nAaaaaah... aaaaaah...\nUuuuuuh... uuuuuuh...\n\nLuces... luces...\nQue tiemblan...\nQue tiemblan...\n\n[Fade out largo con guitarra y voces ondulantes]",
+      "duracion": 245
+    },
+    {
+      "titulo": "Que no se acabe",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Que%20no%20se%20acabe.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Que%20no%20se%20acabe.jpg",
+      "letra": "",
+      "duracion": 147.3
+    },
+    {
+      "titulo": "Sal y sol",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Sal%20y%20sol.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Sal%20y%20sol.jpg",
+      "letra": "",
+      "duracion": 286.7
+    },
+    {
+      "titulo": "Salta-salta",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Salta-salta.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Salta-salta.jpg",
+      "letra": "[Intro]\n[Rockabilly piano, electric guitar and saxophone]\n\n[Verse 1]\n[Db] Ven, ven, ven a bailar,\n[Gb] ven, ven, vamos a andar.\n[Ab] Mueve los pies, déjate llevar,\n[Db] que esta noche no va a terminar.\n\n[Verse 2]\n[Db] Mira, mira cómo voy,\n[Gb] gira, gira junto a mí.\n[Ab] Dame tu mano, vamos los dos,\n[Db] que la música ya comenzó.\n\n[Chorus]\n[Db] Salta, salta, ven aquí,\n[Gb] gira, gira junto a mí.\n[Ab] Una vuelta, otra más,\n[Db] ¡este ritmo te atrapará!\n\n[Instrumental]\n[Tenor saxophone and piano break]\n\n[Verse 3]\n[Db] Ríe, ríe sin parar,\n[Gb] nadie nos va a separar.\n[Ab] Suena la banda, déjala sonar,\n[Db] que esta noche vamos a bailar.\n\n[Final Chorus]\n[Db] Salta, salta, ven aquí,\n[Gb] gira, gira junto a mí.\n[Ab] Una vuelta, otra más,\n[Db] ¡este ritmo te atrapará!\n\n[Outro]\n[Db] ¡Ven a bailar!\n[Gb] ¡Ven a bailar!\n[Ab] ¡Una vez más!\n[Db] ¡Rock and roll!",
+      "duracion": 128
+    },
+    {
+      "titulo": "Se me escapa ésta canción ",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Se%20me%20escapa%20%C3%A9sta%20canci%C3%B3n%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Se%20me%20escapa%20%C3%A9sta%20canci%C3%B3n.jpg",
+      "letra": "",
+      "duracion": 173.8
+    },
+    {
+      "titulo": "Todavía estás aquí",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Todav%C3%ADa%20est%C3%A1s%20aqu%C3%AD.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Todav%C3%ADa%20est%C3%A1s%20aqu%C3%AD.jpg",
+      "letra": "",
+      "duracion": 323.6
+    },
+    {
+      "titulo": "Un motivo en Fa",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Un%20motivo%20en%20Fa.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Un%20motivo%20en%20Fa.jpg",
+      "letra": "",
+      "duracion": 190.1
+    },
+    {
+      "titulo": "Una carta para ti",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Una%20carta%20para%20ti.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Una%20carta%20para%20ti.jpg",
+      "letra": "",
+      "duracion": 124.8
+    },
+    {
+      "titulo": "Ven conmigo a bailar",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Ven%20conmigo%20a%20bailar.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Ven%20conmigo%20a%20bailar.jpg",
+      "letra": "",
+      "duracion": 157.6
+    },
+    {
+      "titulo": "Verano de amor",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Verano%20de%20amor.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Verano%20de%20amor.jpg",
+      "letra": "",
+      "duracion": 180.5
+    },
+    {
+      "titulo": "Voy a bailar",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Voy%20a%20bailar.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Voy%20a%20bailar.jpg",
+      "letra": "",
+      "duracion": 149.1
+    },
+    {
+      "titulo": "Vuelve a mi",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Vuelve%20a%20mi.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Vuelve%20a%20mi.jpg",
+      "letra": "",
+      "duracion": 216.9
+    },
+    {
+      "titulo": "Y no estás ",
+      "ritmo": "Años 60s",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Y%20no%20est%C3%A1s%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Y%20no%20est%C3%A1s.jpg",
+      "letra": "",
+      "duracion": 198
+    },
+    {
+      "titulo": "Radio-Baladas",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Radio-Baladas.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Radio-Baladas.jpg",
+      "letra": "",
+      "duracion": 65.3
+    },
+    {
+      "titulo": "Agua salada",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Agua%20salada.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Agua%20salada.jpg",
+      "letra": "",
+      "duracion": 144.3
+    },
+    {
+      "titulo": "Antonia, la niña de Linares",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Antonia%2C%20la%20ni%C3%B1a%20de%20Linares.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Antonia%2C%20la%20ni%C3%B1a%20de%20Linares.jpg",
+      "letra": "",
+      "duracion": 332.7
+    },
+    {
+      "titulo": "Aprenderás a caminar",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Aprender%C3%A1s%20a%20caminar.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Aprender%C3%A1s%20a%20caminar.jpg",
+      "letra": "",
+      "duracion": 264.1
+    },
+    {
+      "titulo": "Aquel verano contigo",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Aquel%20verano%20contigo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Aquel%20verano%20contigo.jpg",
+      "letra": "",
+      "duracion": 284.4
+    },
+    {
+      "titulo": "aquella fotografía",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/aquella%20fotograf%C3%ADa.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/aquella%20fotograf%C3%ADa.jpg",
+      "letra": "[Intro – Guitarra acústica arpegiada, bajo melódico . 16 compases]\n\n[Verso 1 – Voz íntima, casi confidencial]\n\n[Fm] Encontré tu fotografía\n[Db] entre las cosas que olvidé,\n[Ab] tenía el polvo de otros días\n[Eb] y aquella luz que yo guardé.\n\n[Fm] Tu pelo al viento, aquella tarde,\n[Db] la misma calle, el mismo sol,\n[Ab] y de repente tuve miedo\n[Eb] de recordar lo que pasó.\n\n[Verso 2 ]\n\n[Bbm] No sé si fuimos tan felices,\n[Eb] o si lo inventa el corazón,\n[Ab] que pone flores en las ruinas\n[C7] y hace del tiempo una canción.\n\n[Bbm] Tal vez la vida nos llevaba\n[Db] por diferentes direcciones,\n[Fm] mientras guardábamos en silencio\n[C7] nuestras pequeñas ilusiones.\n\n[Interludio – piano y bajo melódico]\n\n[Verso 3 ]\n\n[Fm] Después de tantos calendarios,\n[Db] después de tanto caminar,\n[Ab] aún hay palabras que no dije\n[Eb] y algún abrazo sin terminar.\n\n[Fm] No guardo culpas ni reproches,\n[Db] tampoco quiero preguntar\n[Ab] si alguna vez, cuando estás solo,,\n[Eb] te acuerdas de aquel lugar.\n\n[Puente – Crecimiento instrumental, voz emotiva]\n\n[Bbm] Porque los años no destruyen\n[Eb] aquello que fue de verdad,\n[Ab] cambian los nombres de las cosas,\n[C7] pero no su intensidad.\n\n[Bbm] Y aunque la vida nos aleje,\n[Db] aunque no vuelva a verte más,\n[Fm] hay ciertos días que no mueren,\n[C7] hay ciertos besos que ahí están.\n\n[Verso 4 ]\n\n[Fm] Hoy ya no somos aquellos jóvenes\n[Db] que se juraban eternidad,\n[Ab] llevamos otras cicatrices,\n[Eb] otras maneras de mirar.\n\n[Fm] Pero si alguna vez escuchas\n[Db] una canción de aquel ayer,\n[Ab] piensa que en algún rincón del tiempo\n[C7] todavía te quise bien.\n\n[Outro – Voz muy suave, piano y guitarra acústica]\n\n[Fm] Y guardaré aquella fotografía,\n[Db] sin preguntarle al corazón,\n[Ab] si fue verdad, si fue mentira...\n[C7] o simplemente... una ilusión.\n\n[Final instrumental – Guitarra acústica, bajo y piano.  Desvanecimiento lento.]",
+      "duracion": 247.6
+    },
+    {
+      "titulo": "Arde entre los dos",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Arde%20entre%20los%20dos.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Arde%20entre%20los%20dos.jpg",
+      "letra": "[Verso]\nTu respiración cerca de mí\nla piel que empieza a arder\n \n[Coro]\nArde, arde entre los dos\nnada nos puede detener\n \n[Verso]\nTus manos sobre mi piel\nel mundo desaparece ya\n \n[Coro]\nArde, arde entre los dos\nnada nos puede detener\n \n[Final]\nSolo tú… solo yo ✨",
+      "duracion": 150.8
+    },
+    {
+      "titulo": "Aún tengo tanto que agradecer",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/A%C3%BAn%20tengo%20tanto%20que%20agradecer.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/A%C3%BAn%20tengo%20tanto%20que%20agradecer.jpg",
+      "letra": "",
+      "duracion": 235.4
+    },
+    {
+      "titulo": "Carta que nunca viajó",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Carta%20que%20nunca%20viaj%C3%B3.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Carta%20que%20nunca%20viaj%C3%B3.jpg",
+      "letra": "",
+      "duracion": 192.5
+    },
+    {
+      "titulo": "Como si fuera ayer",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Como%20si%20fuera%20ayer.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Como%20si%20fuera%20ayer.jpg",
+      "letra": "Como si fuera ayer\n\n[Intro – Solo Hammond, cálido y nostálgico]\n\n[Verse 1 – Voz masculina suave, casi susurrada]\nLa playa sola,\nla arena y el mar.\nEl sol de entonces,\nvuelve a brillar.\n\nTus pies descalzos,\ntu pelo al viento.\nY aquella tarde,\nque llevo dentro.\n\n[Verse 2 – Íntimo, pausado]\nHoy ya no estás,\nno sé dónde vas.\nPero tu recuerdo,\nsigue aquí detrás.\n\nCierro los ojos,\nte puedo ver.\nComo si todo,\nfuera ayer.\n\n[Chorus – Dulce, legato, voz ligeramente doblada]\nCómo olvidar,\naquel verano.\nCómo olvidar,\ntus manos en mis manos.\n\nLa orilla azul,\ntu forma de amar.\nTodo está lejos,\npero sigue igual.\n\n[Verse 3 – Voz cercana, nostálgica]\nLa misma arena,\nel mismo mar.\nPero tus pasos,\nno volverán.\n\nQuedó en el viento,\ntu caminar.\nY en cada ola,\ntu nombre al llegar.\n\n[Final Chorus – Más expresivo, sin gritar]\nCómo olvidar,\naquel verano.\nCómo olvidar,\nlo que vivimos juntos.\n\nY aunque no estés,\nte vuelvo a encontrar.\nEn esa playa,\nfrente al mar.\n\n[Outro – Casi hablado]\nComo si ayer...\ncomo si ayer...\n\n[Hammond reprise – Breve, melancólico y envolvente]",
+      "duracion": 199.2
+    },
+    {
+      "titulo": "Corazón herido",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Coraz%C3%B3n%20herido.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Coraz%C3%B3n%20herido.jpg",
+      "letra": "",
+      "duracion": 153.5
+    },
+    {
+      "titulo": "Cuarenta años más tarde",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Cuarenta%20a%C3%B1os%20m%C3%A1s%20tarde.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Cuarenta%20a%C3%B1os%20m%C3%A1s%20tarde.jpg",
+      "letra": "",
+      "duracion": 324.9
+    },
+    {
+      "titulo": "De espaldas al sol",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/De%20espaldas%20al%20sol.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/De%20espaldas%20al%20sol.jpg",
+      "letra": "",
+      "duracion": 242.2
+    },
+    {
+      "titulo": "Dejé la luz encendida ",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Dej%C3%A9%20la%20luz%20encendida%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Dej%C3%A9%20la%20luz%20encendida.jpg",
+      "letra": "",
+      "duracion": 230.3
+    },
+    {
+      "titulo": "Desde La Orilla -",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Desde%20La%20Orilla%20-.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Desde%20La%20Orilla%20-.jpg",
+      "letra": "",
+      "duracion": 145.4
+    },
+    {
+      "titulo": "Detente un momento",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Detente%20un%20momento.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Detente%20un%20momento.jpg",
+      "letra": "",
+      "duracion": 265.5
+    },
+    {
+      "titulo": "Dímelo Bajito",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/D%C3%ADmelo%20Bajito.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/D%C3%ADmelo%20Bajito.jpg",
+      "letra": "[Verso 1]\nAm\nQuédate un poco a mi lado,\nDm\nque la noche es un secreto,\nE7\ndéjame beber tu aliento,\nAm\ntu voz me roza en el cuello.\n\n[Estribillo]\nF\nDímelo ahora, bajito,\nE7\nsin gastar ni una palabra;\nAm\nque mi piel ya te contesta,\nDm      E7      Am\nah… y mi boca ya te llama.\n\n[Verso 2]\nAm\nTus manos saben el rumbo\nDm\nde cada curva en mi espalda,\nE7\nel fuego sube despacio,\nAm\nun suspiro en mi almohada.\n\n[Estribillo]\nF\nDímelo ahora, bajito,\nE7\nsin gastar ni una palabra;\nAm\nque mi piel ya te contesta,\nDm      E7      Am\nah… y mi boca ya te llama.\n\n[Puente]\nDm\nAh… no pares… mmm…\nE7\nquédate… ah…\nAm\nmmm… ah…\n\n[Estribillo final]\nF\nDímelo ahora, bajito,\nE7\nsin gastar ni una palabra;\nAm\nmmm… que mi piel ya te contesta,\nDm      E7      Am\nah… ah… y mi boca ya te llama.\n\n[Outro]\nAm\nAh… mmm…",
+      "duracion": 198.4
+    },
+    {
+      "titulo": "Donde Duerme el Viento",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Donde%20Duerme%20el%20Viento.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Donde%20Duerme%20el%20Viento.jpg",
+      "letra": "[Intro – Solo acoustic guitar, delicate fingerpicking]\n\n[Verse 1 – Female lead, very soft and intimate]\n\nHay una casa junto al mar,\ndonde los días van sin prisa.\nAllí aprendí que recordar\ntambién puede ser una caricia.\n\nLa tarde cae sobre el jardín,\nla brisa juega entre las flores.\nY hay tantas cosas que aún están\nviviendo dentro de mis canciones.\n\n[Verse 2 – Gentle acoustic strumming, subtle backing vocals]\n\nA veces vuelvo sin querer\na aquellos años tan lejanos.\nA las promesas de papel,\na las palabras de tus labios.\n\nNo sé si tú recordarás\naquella luz de primavera.\nPero hay momentos que jamás\nse marchan aunque el tiempo quiera.\n\n[Chorus – Soft three-part female harmonies]\n\nY déjame soñar,\nun poquito más,\nque el mundo sigue siendo\nun lugar para esperar.\n\nY déjame sentir,\nque no todo terminó,\nque aún queda algún camino\ndonde florezca el corazón.\n\n[Instrumental – Delicate acoustic guitar fingerpicking]\n\n[Verse 3 – Almost whispered, intimate]\n\nNo quiero detener el sol,\nni devolver lo que he perdido.\nMe basta con guardar tu voz\nen algún rincón de mi camino.\n\nY cuando vuelva a amanecer,\nsin hacer ruido abriré la puerta.\nQuizás la vida quiera ser\nuna canción que aún no está escrita.\n\n[Final Chorus – Gentle layered female harmonies]\n\nY déjame soñar,\nun poquito más,\nque el mundo sigue siendo\nun lugar para esperar.\n\nY déjame sentir,\nque no todo terminó,\nque aún queda algún camino\ndonde florezca el corazón.\n\n[Outro – Solo fingerpicked acoustic guitar]\n\nDonde duerme el viento...\nallí te encontraré...\n\n[Final phrase – Soft sustained female voice, delicate backing harmonies fading]",
+      "duracion": 198
+    },
+    {
+      "titulo": "Dónde estás ahora",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/D%C3%B3nde%20est%C3%A1s%20ahora.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/D%C3%B3nde%20est%C3%A1s%20ahora.jpg",
+      "letra": "",
+      "duracion": 236.7
+    },
+    {
+      "titulo": "El amor no cumple años",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/El%20amor%20no%20cumple%20a%C3%B1os.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20amor%20no%20cumple%20a%C3%B1os.jpg",
+      "letra": "",
+      "duracion": 290.1
+    },
+    {
+      "titulo": "El faro sigue encendido",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/El%20faro%20sigue%20encendido.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20faro%20sigue%20encendido.jpg",
+      "letra": "",
+      "duracion": 238.7
+    },
+    {
+      "titulo": "El mar no firma decretos",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/El%20mar%20no%20firma%20decretos.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20mar%20no%20firma%20decretos.jpg",
+      "letra": "",
+      "duracion": 394.6
+    },
+    {
+      "titulo": "El niño que fuí ",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/El%20ni%C3%B1o%20que%20fu%C3%AD%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20ni%C3%B1o%20que%20fu%C3%AD.jpg",
+      "letra": "",
+      "duracion": 228.8
+    },
+    {
+      "titulo": "El órgano lloraba",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/El%20%C3%B3rgano%20lloraba.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20%C3%B3rgano%20lloraba.jpg",
+      "letra": "",
+      "duracion": 212.7
+    },
+    {
+      "titulo": "El peso de lo sencillo",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/El%20peso%20de%20lo%20sencillo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20peso%20de%20lo%20sencillo.jpg",
+      "letra": "",
+      "duracion": 214.8
+    },
+    {
+      "titulo": "El peso de ser uno mismo",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/El%20peso%20de%20ser%20uno%20mismo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20peso%20de%20ser%20uno%20mismo.jpg",
+      "letra": "",
+      "duracion": 337.7
+    },
+    {
+      "titulo": "El Sur no se olvida",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/El%20Sur%20no%20se%20olvida.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20Sur%20no%20se%20olvida.jpg",
+      "letra": "",
+      "duracion": 183.3
+    },
+    {
+      "titulo": "En el fondo de la vida",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/En%20el%20fondo%20de%20la%20vida.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/En%20el%20fondo%20de%20la%20vida.jpg",
+      "letra": "",
+      "duracion": 356.1
+    },
+    {
+      "titulo": "En tus silencios",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/En%20tus%20silencios.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/En%20tus%20silencios.jpg",
+      "letra": "",
+      "duracion": 307.1
+    },
+    {
+      "titulo": "La última carta",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/La%20%C3%BAltima%20carta.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/La%20%C3%BAltima%20carta.jpg",
+      "letra": "",
+      "duracion": 228.1
+    },
+    {
+      "titulo": "Llueve y no es invierno",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Llueve%20y%20no%20es%20invierno.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Llueve%20y%20no%20es%20invierno.jpg",
+      "letra": "",
+      "duracion": 291.2
+    },
+    {
+      "titulo": "Lo que antes sentimos",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Lo%20que%20antes%20sentimos.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Lo%20que%20antes%20sentimos.jpg",
+      "letra": "",
+      "duracion": 215.5
+    },
+    {
+      "titulo": "Luz del atardecer",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Luz%20del%20atardecer.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Luz%20del%20atardecer.jpg",
+      "letra": "",
+      "duracion": 194.1
+    },
+    {
+      "titulo": "Luz dorada",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Luz%20dorada.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Luz%20dorada.jpg",
+      "letra": "",
+      "duracion": 183
+    },
+    {
+      "titulo": "Luz entre la niebla",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Luz%20entre%20la%20niebla.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Luz%20entre%20la%20niebla.jpg",
+      "letra": "",
+      "duracion": 198.4
+    },
+    {
+      "titulo": "Más allá de lo que ruego",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/M%C3%A1s%20all%C3%A1%20de%20lo%20que%20ruego.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/M%C3%A1s%20all%C3%A1%20de%20lo%20que%20ruego.jpg",
+      "letra": "",
+      "duracion": 218.9
+    },
+    {
+      "titulo": "Mi vida y amor",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Mi%20vida%20y%20amor.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Mi%20vida%20y%20amor.jpg",
+      "letra": "Te miro dormir en tu cuna pequeña,\nsin saber qué tormentas sacuden la tierra.\nHay tanto dolor que el hombre alimenta,\nalzando altares de odio y de guerra.\n[Verse 2 (subtle warm cello undertone, tender tone)]\nNo es este el jardín que soñaba entregarte,\nel mundo que heredas ya llega cansado.\nDeambula la sombra dispuesta a ganarte,\nmas este es el tiempo que nos ha tocado.\n[Chorus (emotional vocal peak, soft contralto harmonies, gentle acoustic strums)]\nY un día serás grande y alzarás la mirada,\nabriendo una brecha para hacerlo mejor.\nMientras en mis brazos no temes a nada,\nte guardo y te entrego mi vida y amor.\n[Bridge (slow acoustic guitar and soft cello instrumental break, reflective pause)]\n[Chorus (maximum emotional expression, crystal-clear soprano lead, soft backing choir)]\nY un día serás grande y alzarás la mirada,\nabriendo una brecha para hacerlo mejor.\nMientras en mis brazos no temes a nada,\nte guardo y te entrego mi vida y amor.\n[Outro (slow acoustic fingerpicking fading softly, sustain the final vocal note in a quiet room)]\nMi vida y amor",
+      "duracion": 180
+    },
+    {
+      "titulo": "Mientras exista el amor",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Mientras%20exista%20el%20amor.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Mientras%20exista%20el%20amor.jpg",
+      "letra": "[Long acoustic guitar introduction – gentle arpeggios, psychedelic electric guitar textures, soft organ]\n\n[Verse 1 – Tender, intimate female lead vocal]\n\n[C] Cuando la tarde se [G] duerme junto al mar,\n[Am] cierro los ojos y te [F] vuelvo a encontrar.\n[C] Hay una historia que [G] vive entre los dos,\n[Am] como una estrella que [F] nunca se apagó.\n\n[C] Guardo en mis manos la [G] forma de tu piel,\n[Am] todos los besos que [F] aún saben a ayer.\n[C] Y aunque los años nos [G] quieran separar,\n[Am] hay sentimientos que [F] no pueden cambiar.\n\n[Instrumental interlude – Acoustic guitar and melodic electric guitar]\n\n[Verse 2 – More expressive, hopeful]\n\n[C] Hoy tengo ganas de [G] volver a comenzar,\n[Am] abrir las puertas y [F] dejar entrar el sol.\n[C] No necesito prome[G]sas de eternidad,\n[Am] solo tus ojos y [F] tu complicidad.\n\n[C] Que cada día nos [G] encuentre un poco más,\n[Am] que nuestras dudas se [F] conviertan en verdad.\n[C] Y si el camino nos [G] sorprende alguna vez,\n[Am] yo tomaré tu mano [F] y caminaré.\n\n[Instrumental solo – Melodic 60s electric guitar, Hammond organ responses, psychedelic atmosphere]\n\n[Bridge – Exhortative, powerful female vocal]\n\n[Am] ¡No dejemos que el [F] tiempo decida!\n[C] ¡No escondamos el [G] fuego de amar!\n[Am] Que la vida es un [F] breve camino,\n[C] y aún nos queda [G] tanto por andar.\n\n[Am] ¡Ven, que todavía [F] estamos a tiempo!\n[C] ¡Ven, que hay un mundo [G] por descubrir!\n[Am] Si tenemos amor [F] entre las manos,\n[C] no habrá distancia [G] que nos pueda dividir.\n\n[Final section – Joyful, communal, anthemic, full band]\n\n[C] Mientras exista el [G] amor,\n[Am] habrá una razón [F] para cantar.\n[C] Mientras exista el [G] amor,\n[Am] siempre habrá un cielo [F] que alcanzar.\n\n[C] Ven y canta conmigo, [G] ven a celebrar,\n[Am] que todavía nos [F] queda mucho por amar.\n[C] Que se escuchen las [G] voces alrededor,\n[Am] ¡que viva la vida, [F] que viva el amor!\n\n[Final chorus – Female lead with layered group harmonies]\n\n[C] Mientras exista el [G] amor,\n[Am] nunca estaremos [F] solos.\n[C] Mientras exista el [G] amor,\n[Am] ¡cantaremos todos [F] juntos!\n\n[Extended outro – Group vocals, joyful harmonies, handclaps, tambourine]\n\n[C] ¡Oh, oh, oh! [G] ¡Oh, oh, oh!\n[Am] ¡Mientras exista el [F] amor!\n\n[Long instrumental ending – Acoustic guitar, Hammond organ, electric guitar melodic solo, group harmonies fading]",
+      "duracion": 238.1
+    },
+    {
+      "titulo": "Mundo loco",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Mundo%20loco.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Mundo%20loco.jpg",
+      "letra": "",
+      "duracion": 181.8
+    },
+    {
+      "titulo": "Nunca fuí humano",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Nunca%20fu%C3%AD%20humano.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Nunca%20fu%C3%AD%20humano.jpg",
+      "letra": "",
+      "duracion": 446.2
+    },
+    {
+      "titulo": "Nunca más",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Nunca%20m%C3%A1s.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Nunca%20m%C3%A1s.jpg",
+      "letra": "",
+      "duracion": 167.4
+    },
+    {
+      "titulo": "Órgano y más ",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/%C3%93rgano%20y%20m%C3%A1s%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/%C3%93rgano%20y%20m%C3%A1s.jpg",
+      "letra": "",
+      "duracion": 245.9
+    },
+    {
+      "titulo": "Pateando Piedras",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Pateando%20Piedras.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Pateando%20Piedras.jpg",
+      "letra": "PATEANDO PIEDRAS\n\n[Intro – guitarra acústica suave y piano seco]\n\n[Verso 1 – voz masculina íntima, casi susurrada]\n\nVoy recorriendo Santiago,\nsin saber adónde voy,\npateando piedras pequeñas,\ncon la tarde alrededor.\n\nLas calles siguen iguales,\nla gente viene y se va,\npero hay algo que me falta,\nque no consigo encontrar.\n\n[Verso 2 – entra el bajo melódico]\n\nEl Paseo Ahumada no cambia,\nlos mismos pasos de ayer,\nlas vitrinas siguen brillando,\npero no te puedo ver.\n\nLa plaza tiene su gente,\nsus conversaciones y el sol,\npero tú ya no estás presente,\no quizás nunca te fuiste de mí.\n\n[Interludio – piano y guitarra acústica, Mellotron lejano]\n\n[Verso 3 – voz más emotiva, sin elevar demasiado]\n\nVoy pateando algunas piedras,\ncomo si pudieran hablar,\nquizás sepan dónde te escondes,\nquizás te vieron pasar.\n\nY me pregunto en silencio,\nmientras cruzo la ciudad,\nsi de verdad te he perdido\no me adelanto al final.\n\n[Verso 4 – suaves armonías vocales]\n\nTal vez soy un pesimista,\ntal vez no sé esperar,\ntal vez mañana en la esquina\nte vuelva a encontrar.\n\nY si no ocurre, qué importa,\nseguiré caminando igual,\nque Santiago es tan grande\ny aún nos queda tanto por andar.\n\n[Puente – voz doble, armonías suaves en terceras]\n\nHay días en que la ausencia\nse parece a la verdad,\ny otros en que una mirada\nme devuelve la esperanza.\n\n[Outro – piano, guitarra y voz muy suave]\n\nSigo pateando piedras,\nsin saber si volverás,\nquizás ya no estés conmigo...\nquizás te vuelva a encontrar.\n\n[Final instrumental – guitarra acústica y piano, Mellotron desvaneciéndose]",
+      "duracion": 254.4
+    },
+    {
+      "titulo": "Perdón por mi ser",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Perd%C3%B3n%20por%20mi%20ser.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Perd%C3%B3n%20por%20mi%20ser.jpg",
+      "letra": "",
+      "duracion": 269.8
+    },
+    {
+      "titulo": "Puentes de hormigón",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Puentes%20de%20hormig%C3%B3n.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Puentes%20de%20hormig%C3%B3n.jpg",
+      "letra": "",
+      "duracion": 303.1
+    },
+    {
+      "titulo": "Quédate un poco conmigo",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Qu%C3%A9date%20un%20poco%20conmigo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Qu%C3%A9date%20un%20poco%20conmigo.jpg",
+      "letra": "",
+      "duracion": 215.3
+    },
+    {
+      "titulo": "Quédate un poco más",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Qu%C3%A9date%20un%20poco%20m%C3%A1s.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Qu%C3%A9date%20un%20poco%20m%C3%A1s.jpg",
+      "letra": "[Verse 1 – Voz femenina baja, susurrada]\nLa tarde cae,\nsobre el café.\nTu sombra vuelve,\nno sé por qué.\n\nLa calle duerme,\nla luz se va.\nY yo en silencio,\nte vuelvo a hablar.\n\n[Verse 2 – Íntima, pausada]\nQuedó tu risa,\nen el balcón.\nUn viejo disco,\ny aquella canción.\n\nNo tengo prisa,\nno hay que explicar.\nHay tantas cosas,\nque quiero guardar.\n\n[Chorus – Voz más abierta, dulce y envolvente]\nQuédate un poco más,\njunto a mi soledad.\nDéjame recordar,\nque un día fuimos verdad.\n\nQuédate un poco más,\nno digas nada al partir.\nHay noches que saben amar,\naunque no estés junto a mí.\n\n[Verse 3 – Regresa al susurro]\nLa luna mira,\ndesde el cristal.\nEl tiempo pasa,\nsin preguntar.\n\nY entre mis manos,\nqueda el calor.\nDe aquel abrazo,\nque no terminó.\n\n[Final Chorus – Legato, cálido, con voz doblada]\nQuédate un poco más,\njunto a mi soledad.\nDéjame recordar,\nque un día fuimos verdad.\n\n[Outro – Voz casi susurrada]\nQuédate...\nun poco más...\n\n[Hammond reprise – breve, cálido y melancólico]",
+      "duracion": 203.5
+    },
+    {
+      "titulo": "Reino de los sueños",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Reino%20de%20los%20sue%C3%B1os.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Reino%20de%20los%20sue%C3%B1os.jpg",
+      "letra": "",
+      "duracion": 265.7
+    },
+    {
+      "titulo": "Reviviendo",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Reviviendo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Reviviendo.jpg",
+      "letra": "",
+      "duracion": 160.4
+    },
+    {
+      "titulo": "Rompe el silencio",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Rompe%20el%20silencio.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Rompe%20el%20silencio.jpg",
+      "letra": "",
+      "duracion": 380.3
+    },
+    {
+      "titulo": "Sin ti no es igual",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Sin%20ti%20no%20es%20igual.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Sin%20ti%20no%20es%20igual.jpg",
+      "letra": "",
+      "duracion": 200.1
+    },
+    {
+      "titulo": "Sueño encontrarte otra vez",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Sue%C3%B1o%20encontrarte%20otra%20vez.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Sue%C3%B1o%20encontrarte%20otra%20vez.jpg",
+      "letra": "",
+      "duracion": 229.3
+    },
+    {
+      "titulo": "Te amo desde lejos",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Te%20amo%20desde%20lejos.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Te%20amo%20desde%20lejos.jpg",
+      "letra": "",
+      "duracion": 249.4
+    },
+    {
+      "titulo": "Todavía estoy a tiempo",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Todav%C3%ADa%20estoy%20a%20tiempo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Todav%C3%ADa%20estoy%20a%20tiempo.jpg",
+      "letra": "",
+      "duracion": 204.6
+    },
+    {
+      "titulo": "Todo en mi se enciende ",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Todo%20en%20mi%20se%20enciende%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Todo%20en%20mi%20se%20enciende.jpg",
+      "letra": "",
+      "duracion": 239.3
+    },
+    {
+      "titulo": "Todo está claro",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Todo%20est%C3%A1%20claro.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Todo%20est%C3%A1%20claro.jpg",
+      "letra": "",
+      "duracion": 209.2
+    },
+    {
+      "titulo": "Tu imagen en mí",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Tu%20imagen%20en%20m%C3%AD.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Tu%20imagen%20en%20m%C3%AD.jpg",
+      "letra": "Tu imagen en mí\n\n\n\n[Verse 1 – Voz masculina suave, íntima]\nTu figura,\nvuelve a mí.\nTu cabello,\nal sonreír.\n\nTus ojos claros,\nmirando al mar.\nY aquella sonrisa,\nque no puedo olvidar.\n\n[Verse 2 – Susurrado, pausado]\nVas conmigo,\na cada lugar.\nEn mis silencios,\nte vuelvo a encontrar.\n\nCierro los ojos,\ny estás aquí.\nTan cerca y tan lejos,\nlejos de mí.\n\n[Chorus – Voz cálida, legato, ligeramente doblada]\nY pienso en ti,\nsin querer pensar.\nEstás en mi vida,\nen cada despertar.\n\nY pienso en ti,\nuna y otra vez.\nComo una caricia,\nque el tiempo no se llevó.\n\n[Verse 3 – Íntimo, casi hablado]\nTu pelo al viento,\ntu forma de andar.\nTu risa pequeña,\ntu modo de mirar.\n\nSon cosas sencillas,\nque viven en mí.\nPequeños recuerdos,\nque no tienen fin.\n\n[Final Chorus – Más expresivo, sin elevar la voz]\nY pienso en ti,\nsin querer pensar.\nEstás en mi vida,\nen cada despertar.\n\nY aunque no estés,\nte siento aquí.\nTu imagen querida,\nno se aleja de mí.\n\n[Outro – Voz susurrada]\nNo se aleja...\nde mí...\n\n[Hammond reprise – breve, melancólico y cálido]",
+      "duracion": 186.3
+    },
+    {
+      "titulo": "Tu mano",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Tu%20mano.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Tu%20mano.jpg",
+      "letra": "",
+      "duracion": 273.4
+    },
+    {
+      "titulo": "Tu mirada",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Tu%20mirada.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Tu%20mirada.jpg",
+      "letra": "",
+      "duracion": 265.1
+    },
+    {
+      "titulo": "Un ciclo se cierra",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Un%20ciclo%20se%20cierra.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Un%20ciclo%20se%20cierra.jpg",
+      "letra": "",
+      "duracion": 230.3
+    },
+    {
+      "titulo": "Una tía de verdad",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Una%20t%C3%ADa%20de%20verdad.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Una%20t%C3%ADa%20de%20verdad.jpg",
+      "letra": "",
+      "duracion": 223.2
+    },
+    {
+      "titulo": "Valparaíso en la noche",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Valpara%C3%ADso%20en%20la%20noche.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Valpara%C3%ADso%20en%20la%20noche.jpg",
+      "letra": "",
+      "duracion": 241.3
+    },
+    {
+      "titulo": "Volver a Amanecer",
+      "ritmo": "Baladas",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Baladas/Volver%20a%20Amanecer.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Volver%20a%20Amanecer.jpg",
+      "letra": "[Intro – Grand piano solo, intimate, warm]\n\n[Verse 1 – Male lead, soft and reflective]\n\nHoy miro atrás sin preguntar,\ncuántos caminos dejé pasar.\nCuántas palabras no pronuncié,\ncuántos abrazos postergué.\n\nY aunque el tiempo no volverá,\nhay una luz que sigue aquí.\nNo todo aquello que se va\nse pierde lejos de mí.\n\n[Verse 2 – Bass enters, gentle drums]\n\nHubo estaciones sin final,\ndías de lluvia y de claridad.\nAmigos que se fueron ya,\ny otros que siempre volverán.\n\nNo guardo cuentas ni rencor,\nni las derrotas del ayer.\nSi alguna vez me equivoqué,\ntambién por eso aprendí a crecer.\n\n[Chorus – Three-part male harmony, rich and warm]\n\nY cuando llegue la mañana,\ncuando se apague esta ciudad,\nllevaré conmigo el alma\nde todo aquello que fue verdad.\n\nY si el camino se termina,\nsi ya no queda qué esperar,\nabriré despacio las ventanas,\nque todavía hay luz por encontrar.\n\n[Instrumental – Grand piano, melodic bass, gentle electric guitar swells]\n\n[Verse 3 – Lead intimate, restrained]\n\nNo necesito comprender\npor qué las cosas deben ser.\nHay despedidas que al partir\nnos enseñaron a vivir.\n\nY si pudiera comenzar,\nno cambiaría lo esencial.\nPorque hasta el llanto que dejé\nfue parte de lo que encontré.\n\n[Final Chorus – Full three-part harmony, emotional bloom]\n\nY cuando llegue la mañana,\ncuando se apague esta ciudad,\nllevaré conmigo el alma\nde todo aquello que fue verdad.\n\nY si el camino se termina,\nno miraré hacia atrás con temor.\nHay otra puerta que se ilumina,\nhay otro día, hay otro sol.\n\n[Outro – Piano and three-part harmony, gradually fading]\n\nY al fin...\nno hay nada que perder...\n\nSolo queda...\nvolver a amanecer...\n\n[Long sustained final vowel – soft three-part harmony, piano resolves]",
+      "duracion": 263.6
     },
     {
       "titulo": "Radio-Rock",
@@ -50,7 +802,159 @@
       "duracion": 32.1
     },
     {
-      "titulo": "Generación de diamante",
+      "titulo": "¿Qué Quedará de Mí",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/%C2%BFQu%C3%A9%20Quedar%C3%A1%20de%20M%C3%AD.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/%C2%BFQu%C3%A9%20Quedar%C3%A1%20de%20M%C3%AD.jpg",
+      "letra": "[Intro – riff lento de guitarra fuzz, bajo profundo y batería pesada]\n\n[Verso 1 – voz femenina grave, suave e íntima]\n\nHe caminado tantas calles,\nsin preguntar dónde llegar.\nHe visto el sol entre los cables,\ny tantas noches terminar.\n\nLlevo preguntas en los bolsillos,\nrespuestas que nunca encontré.\nY entre recuerdos amarillos,\nhay tantas cosas que olvidé.\n\n[Verso 2 – misma voz, ligeramente más intensa]\n\nA veces pienso que la vida\nes una estación sin dirección.\nQue vamos todos de partida,\nsin conocer la explicación.\n\nY aunque los años van pasando,\ny ya no espero comprender,\nhay algo dentro que sigue andando,\naunque no sepa qué buscar.\n\n[Estribillo – voz firme, melódica, sin gritar]\n\n¿Qué quedará de mí,\ncuando se apague el día?\n¿Qué quedará de todo\nlo que soñé algún día?\n\nTal vez una canción,\nun gesto, una mirada,\nun eco de mi voz\nperdido en la mañana.\n\n[Interludio – guitarra fuzz y batería con toms profundos]\n\n[Verso 3 – íntimo, casi susurrado]\n\nNo quiero ser una memoria,\nni una fotografía en un cajón.\nQuisiera descubrir mi historia\nantes de que termine la función.\n\nNo necesito tantas respuestas,\nni un cielo que me diga qué hacer.\nMe basta con abrir la puerta\ny sentir que todavía puedo ser.\n\n[Estribillo final – más amplio, pero contenido]\n\n¿Qué quedará de mí,\ncuando se apague el día?\n¿Qué quedará de todo\nlo que soñé algún día?\n\nTal vez una canción,\nun gesto, una mirada,\nun poco de este amor\nque no sirvió de nada.\n\n[Outro – voz muy suave, guitarra y bajo sosteniendo la última nota]\n\nY si mañana ya no estoy,\nque no me busquen en el ayer.\nFui solamente lo que soy,\ny eso también estuvo bien.\n\n[Final instrumental – riff grave, lento y corte seco]",
+      "duracion": 270
+    },
+    {
+      "titulo": "Abismo sin final",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Abismo%20sin%20final.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Abismo%20sin%20final.jpg",
+      "letra": "",
+      "duracion": 358.8
+    },
+    {
+      "titulo": "Aquellas noches contigo",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Aquellas%20noches%20contigo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Aquellas%20noches%20contigo.jpg",
+      "letra": "[Intro – guitarra acústica arpegiada, piano suave y guitarra eléctrica ambiental]\n\n[Verso 1 – voz masculina joven, cálida, registro medio, muy íntima]\n\nTodavía escucho tu risa,\nperdida en algún rincón.\nTodavía guardo aquellas noches,\nlas canciones y el rock and roll.\n\nCuántas horas compartidas,\ncuántos sueños por alcanzar.\nÉramos dueños de la noche,\ny no pensábamos en el final.\n\n[Verso 2 – entra bajo y batería suave]\n\nTantas historias repetidas,\ntantas cosas por conversar.\nA veces bastaba una mirada\npara volvernos a encontrar.\n\nHoy hay una silla vacía,\ny un silencio que no se va.\nMe cuesta entender tu ausencia,\nme cuesta aceptar que no estás.\n\n[Pre-estribillo – guitarra eléctrica creciendo]\n\nY quisiera volver un momento,\na esos días que ya se fueron.\nCuando el mundo era nuestro escenario\ny teníamos tanto tiempo.\n\n[Estribillo – grunge melódico, batería más intensa y guitarras abiertas]\n\n¿Dónde estarán aquellas noches?\n¿Dónde se fue nuestra canción?\nQuedaron flotando en el aire\nlas notas de nuestra amistad.\n\nY aunque te hayas marchado lejos,\naunque no pueda verte más,\nhay algo que nunca se pierde:\nlo que vivimos de verdad.\n\n[Interludio – guitarra eléctrica melódica, comienza a entrar una sección de cuerdas]\n\n[Verso 3 – voz íntima, piano y violonchelos]\n\nA veces pongo aquella música\nque tantas veces compartimos.\nY por un instante casi siento\nque todavía estás conmigo.\n\nNo sé qué hay después de todo,\nni adónde iremos al final.\nPero si existe otro escenario,\nalgún día volveremos a tocar.\n\n[Puente – entra orquesta completa, violines y violonchelos en ascenso, batería profunda]\n\nY cuando suene aquella melodía,\ncuando alguien vuelva a recordar,\nbrindaré por todas nuestras horas,\npor lo que nadie podrá borrar.\n\n[Estribillo final – orquesta y grunge juntos, voz emotiva y amplia, sin gritar]\n\n¿Dónde estarán aquellas noches?\n¿Dónde se fue nuestra canción?\nQuedaron flotando en el aire\nlas notas de nuestra amistad.\n\nY aunque te hayas marchado lejos,\naunque no pueda verte más,\nhay algo que nunca se pierde:\nlo que vivimos de verdad.\n\n[Outro – piano, cuerdas suaves y voz casi susurrada]\n\nGuárdame un sitio allá donde estés,\nque todavía nos queda música por hacer.\n\n[Final instrumental – violines sostienen la melodía, guitarra eléctrica con sustain, último acorde emotivo]",
+      "duracion": 280
+    },
+    {
+      "titulo": "Bajo la cúpula de piedra",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Bajo%20la%20c%C3%BApula%20de%20piedra.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Bajo%20la%20c%C3%BApula%20de%20piedra.jpg",
+      "letra": "",
+      "duracion": 390.6
+    },
+    {
+      "titulo": "Bajo la misma luna ",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Bajo%20la%20misma%20luna%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Bajo%20la%20misma%20luna.jpg",
+      "letra": "[Intro – guitarra limpia con chorus, bajo profundo y batería suave]\n\n[Verso 1 – voz femenina dulce, íntima y ligeramente ronca]\n\nLa noche duerme sobre el mar,\nla luna empieza a despertar.\nTus pies descalzos junto a mí,\ny no hay un sitio donde ir.\n\nLa brisa juega con tu pelo,\nla arena guarda nuestro andar.\nY yo quisiera detener el tiempo,\npara no tener que regresar.\n\n[Verso 2 – entra batería pausada, guitarra atmosférica]\n\nNo hacen falta las palabras,\ncuando me miras así.\nHay un universo en tus ojos\ny todo comienza junto a ti.\n\nLas olas vienen y se alejan,\ncomo queriendo conversar.\nY entre tus brazos esta noche\nno tengo miedo de soñar.\n\n[Estribillo – voz femenina cálida, melodía amplia, guitarras con distorsión moderada]\n\nQuédate conmigo esta noche,\nhasta que despierte el sol.\nQue la luna sea testigo\nde este pequeño amor.\n\nQuédate junto a mi cuerpo,\ndéjame escuchar el mar.\nSi el mundo termina mañana,\nque nos encuentre aquí, abrazados junto al mar.\n\n[Interludio – guitarra eléctrica melódica, fuzz suave y batería profunda]\n\n[Verso 3 – vuelve la voz cercana y delicada]\n\nQuizás mañana sea distinto,\nquizás nos toque regresar.\nPero esta noche es solamente nuestra,\ny nadie la podrá borrar.\n\nTu mano encuentra la mía,\nla espuma viene a nuestros pies.\nY mientras brille aquella luna,\nquisiera amarte una y otra vez.\n\n[Estribillo final – mayor amplitud instrumental, sin gritos]\n\nQuédate conmigo esta noche,\nhasta que despierte el sol.\nQue la luna sea testigo\nde este pequeño amor.\n\nQuédate junto a mi cuerpo,\ndéjame escuchar el mar.\nSi el mundo termina mañana,\nque nos encuentre aquí, abrazados junto al mar.\n\n[Outro – voz susurrada, guitarra limpia y sonido ambiental de olas]\n\nBajo la misma luna...\ntú y yo...\nfrente al mar...\n\n[Final instrumental – guitarra melódica con sustain y cierre lento]",
+      "duracion": 251.6
+    },
+    {
+      "titulo": "Cómo frenar",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/C%C3%B3mo%20frenar.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/C%C3%B3mo%20frenar.jpg",
+      "letra": "",
+      "duracion": 293.5
+    },
+    {
+      "titulo": "Cuando se apague la Tierra",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Cuando%20se%20apague%20la%20Tierra.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Cuando%20se%20apague%20la%20Tierra.jpg",
+      "letra": "",
+      "duracion": 379.6
+    },
+    {
+      "titulo": "Cuando todo se calla ",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Cuando%20todo%20se%20calla%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Cuando%20todo%20se%20calla.jpg",
+      "letra": "",
+      "duracion": 370.6
+    },
+    {
+      "titulo": "Dale sin parar",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Dale%20sin%20parar.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Dale%20sin%20parar.jpg",
+      "letra": "",
+      "duracion": 274.6
+    },
+    {
+      "titulo": "Dale",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Dale.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Dale.jpg",
+      "letra": "",
+      "duracion": 265
+    },
+    {
+      "titulo": "Dance with me tonight",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Dance%20with%20me%20tonight.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Dance%20with%20me%20tonight.jpg",
+      "letra": "",
+      "duracion": 224.2
+    },
+    {
+      "titulo": "Dónde se fue mi canción",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/D%C3%B3nde%20se%20fue%20mi%20canci%C3%B3n.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/D%C3%B3nde%20se%20fue%20mi%20canci%C3%B3n.jpg",
+      "letra": "[Intro: fuzz guitar riff alone, then bass and slow drums]\n\n[Verse 1: bass, sparse drums, muted guitar]\n(Am G) Todo se va sin hablar\n(Am G) tiempo sin fin, ni piedad\n(F G) mis manos hoy vacías\n(Am E) solo queda soledad\n\n[Chorus: full band, crash cymbals, Hammond organ chords]\n(F G) Dónde se fue, mi canción\n(Am C) dónde quedó mi lugar\n(F G) voy sin rumbo, sin razón\n(Am E) nadie me ve al pasar\n\n[Verse 2: bass, sparse drums, muted guitar]\n(Am G) Quise volar, sin temor\n(Am G) quise cantar para ti\n(F G) mas el tiempo fue ladrón\n(Am E) y se llevó lo que fui\n\n[Chorus]\n(F G) Dónde se fue, mi canción\n(Am C) dónde quedó mi lugar\n(F G) voy sin rumbo, sin razón\n(Am E) nadie me ve al pasar\n\n[Extended instrumental interlude]\n[Hammond organ]\n[Moog synth lead]\n[Distorted blues guitar solo]\n(Am G) (Am G) (Am G) (Am G)\n(F G) (Am C) (F G) (Am E)\n\n[Verse 3: soft Hammond, bass, brushed drums]\n(Am G) Dejo mi voz al viento\n(Am G) voy sin pena, sin dolor\n(F G) lento me voy, sin ruido\n(Am E) y me queda mi canción\n\n[Final Chorus: full band]\n(F G) Dónde se fue, mi canción\n(Am C) dónde quedó mi lugar\n(F G) voy sin rumbo, sin razón\n(Am E) nadie me ve al pasar",
+      "duracion": 283.4
+    },
+    {
+      "titulo": "Donde Todo Terminó",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Donde%20Todo%20Termin%C3%B3.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Donde%20Todo%20Termin%C3%B3.jpg",
+      "letra": "[Intro – piano melancólico, guitarra acústica y guitarra eléctrica ambiental]\n\n[Verso 1 – voz femenina suave e íntima]\n\nLa lluvia golpea los cristales,\nla noche vuelve a preguntar,\npor qué quedaron tantas cosas\nque nunca pudimos terminar.\n\nTu fotografía está en la mesa,\nno tuve fuerzas para guardar,\naquella última promesa\nque no pudimos respetar.\n\n[Verso 2 – entra el bajo, batería suave y guitarras envolventes]\n\nYo no esperaba que te fueras,\nni estaba lista para el final.\nHay despedidas que se quedan\nviviendo dentro de uno más.\n\nY aunque he intentado olvidarte,\naunque he aprendido a sonreír,\nhay una parte de mi vida\nque se quedó junto a ti.\n\n[Estribillo – voz abierta, emotiva, guitarras grunge más pesadas]\n\nY cómo voy a olvidarte,\nsi todavía estás en mí.\nSi cierro los ojos por un instante,\nvuelvo a encontrarte junto a mí.\n\nY cómo puedo explicarle\na este corazón que te perdió,\nque aunque la vida siga adelante,\nyo sigo donde todo terminó.\n\n[Interludio – guitarra eléctrica distorsionada, melodía larga y expresiva]\n\n[Verso 3 – vuelve la voz íntima, piano y guitarra limpia]\n\nQuizás mañana sea distinto,\nquizás consiga continuar.\nPero esta noche necesito\nsentir que aún me puedes escuchar.\n\nNo quiero odiarte por marcharte,\nni preguntarte qué salió mal.\nHay tanto amor en el recuerdo\nque no lo quiero abandonar.\n\n[Estribillo final – máxima intensidad instrumental, voz emotiva pero sin gritos]\n\nY cómo voy a olvidarte,\nsi todavía estás en mí.\nSi cierro los ojos por un instante,\nvuelvo a encontrarte junto a mí.\n\nY cómo puedo explicarle\na este corazón que te perdió,\nque aunque la vida siga adelante,\nyo sigo donde todo terminó.\n\n[Outro – piano, guitarra limpia y voz casi susurrada]\n\nYo sigo donde...\ntodo terminó...",
+      "duracion": 253.2
+    },
+    {
+      "titulo": "El amor no sabe de puertas",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/El%20amor%20no%20sabe%20de%20puertas.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20amor%20no%20sabe%20de%20puertas.jpg",
+      "letra": "",
+      "duracion": 397.9
+    },
+    {
+      "titulo": "El compás que gira",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/El%20comp%C3%A1s%20que%20gira.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20comp%C3%A1s%20que%20gira.jpg",
+      "letra": "[Instrumental Intro]\n[Slow ambient texture, vintage analog organ pads, 60 bpm]\n[Sparse minimalist bass notes]\n\n[Instrumental Verse]\n[Subtle halftime drums enter, steady dark atmosphere]\n[Sustained melancholic keyboard chords building tension]\n\n[Spoken word over slow ambient]\nEl tiempo se estira en la ruta gris...\nsombras largas bajo el metal.\n\n[Multi-voice harmony enters]\n[Tempo shift to steady marching beat]\nUn pulso antiguo que vuelve a latir,\nun destello ciego en la oscuridad.\n[Acoustic guitar fingerpicking enters]\n[Atmospheric choir swell]\n[Sustained organ pads]\nNadie responde, el viento es igual...\nsolo el compás que empieza a girar.\n[Acoustic guitar fingerpicking enters]\n[Choral outro fading]\n[Halftime transition, slow crawl]\n\n[Tempo shift to steady marching beat]\n[Heavy rhythmic bassline joins]\n[Driving electric guitar sustain with massive reverb]\n[Mid-tempo rhythmic transition]\n\n[Instrumental Bridge]\n[Sudden drop in volume, minimal eerie organ solo]\n[Drums fade out, sparse percussion only]\n\n[Halftime transition, slow crawl]\n[Atmospheric synth pads returning]\n[Deep melancholic organ chords]\n\n[Instrumental Outro]\n[Gradual fade to absolute silence]\n[Final isolated organ note echoing]",
+      "duracion": 299.8
+    },
+    {
+      "titulo": "El mundo que te dejo",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/El%20mundo%20que%20te%20dejo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20mundo%20que%20te%20dejo.jpg",
+      "letra": "",
+      "duracion": 222.9
+    },
+    {
+      "titulo": "En la palma de la mano",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/En%20la%20palma%20de%20la%20mano.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/En%20la%20palma%20de%20la%20mano.jpg",
+      "letra": "",
+      "duracion": 355.6
+    },
+    {
+      "titulo": "En marcha",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/En%20marcha.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/En%20marcha.jpg",
+      "letra": "",
+      "duracion": 200.9
+    },
+    {
+      "titulo": "Fuego en la piel",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Fuego%20en%20la%20piel.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Fuego%20en%20la%20piel.jpg",
+      "letra": "",
+      "duracion": 332.5
+    },
+    {
+      "titulo": "Generación de diamante ",
       "ritmo": "Rock",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Generaci%C3%B3n%20de%20diamante%20.mp3",
       "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Generaci%C3%B3n%20de%20diamante.jpg",
@@ -66,6 +970,118 @@
       "duracion": 181.9
     },
     {
+      "titulo": "Hammond in fire",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Hammond%20in%20fire.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Hammond%20in%20fire.jpg",
+      "letra": "",
+      "duracion": 217.5
+    },
+    {
+      "titulo": "Hoy elijo mi destino",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Hoy%20elijo%20mi%20destino.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Hoy%20elijo%20mi%20destino.jpg",
+      "letra": "",
+      "duracion": 236.1
+    },
+    {
+      "titulo": "Hoy estoy bien",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Hoy%20estoy%20bien.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Hoy%20estoy%20bien.jpg",
+      "letra": "",
+      "duracion": 270
+    },
+    {
+      "titulo": "Invierno frio",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Invierno%20frio.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Invierno%20frio.jpg",
+      "letra": "",
+      "duracion": 192.7
+    },
+    {
+      "titulo": "Junto al teclado",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Junto%20al%20teclado.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Junto%20al%20teclado.jpg",
+      "letra": "",
+      "duracion": 268.3
+    },
+    {
+      "titulo": "Juntos aquí",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Juntos%20aqu%C3%AD.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Juntos%20aqu%C3%AD.jpg",
+      "letra": "",
+      "duracion": 246.1
+    },
+    {
+      "titulo": "La linea fina",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/La%20linea%20fina.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/La%20linea%20fina.jpg",
+      "letra": "",
+      "duracion": 344.4
+    },
+    {
+      "titulo": "La Vida es Genial",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/La%20Vida%20es%20Genial.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/La%20Vida%20es%20Genial.jpg",
+      "letra": "",
+      "duracion": 159.7
+    },
+    {
+      "titulo": "Manos contra el viento",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Manos%20contra%20el%20viento.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Manos%20contra%20el%20viento.jpg",
+      "letra": "[Intro – 8 compases]\n[Guitarras fuzz graves, bajo profundo, batería entrando lentamente]\n\n[Verso 1 – voz femenina grave, íntima, casi susurrada]\n\nDespierto sin saber por qué,\nla misma luz, la misma pared.\nUn día más que se me va,\nsin nada nuevo que recordar.\n\nMe miro y no me reconozco,\n¿en qué momento me perdí?\nLlevo una vida entre los hombros\nque nunca supe elegir.\n\n[Verso 2 – aumenta la tensión, batería contenida]\n\nHay tantas cosas que callé,\ntantas verdades que esquivé.\nFui lo que otros esperaban,\nno lo que quise alguna vez.\n\nY ahora que el tiempo me persigue,\nno tengo ganas de correr.\nQuizás la vida no era esto,\nquizás no había que entender.\n\n[Estribillo – voz desgarrada, potente, guitarras abiertas]\n\n¡Y aquí estoy!\nCon las manos contra el viento.\n¡Y aquí estoy!\nDiscutiendo con el tiempo.\n\nNo sé quién soy,\nni adónde voy,\npero todavía estoy aquí.\n\n[Interludio – riff de guitarra fuzz y floor toms]\n\n[Verso 3 – vuelve la intimidad]\n\nHe visto el miedo en otros ojos,\nhe visto el mundo envejecer.\nHay tantas puertas que se cierran\ny tantas cosas por perder.\n\nNo quiero falsas despedidas,\nni promesas de papel.\nSi queda algo entre mis ruinas,\nque sea mío de una vez.\n\n[Estribillo final – máxima intensidad, voz rasgada]\n\n¡Y aquí estoy!\nCon las manos contra el viento.\n¡Y aquí estoy!\nAunque me queme por dentro.\n\nNo sé quién soy,\nni adónde voy,\npero todavía estoy aquí.\n\n[Outro – voz suave sobre guitarras distorsionadas]\n\nTodavía estoy aquí...\nTodavía...\nAquí...\n\n[Final instrumental – riff grave, batería pesada, corte seco]",
+      "duracion": 237.1
+    },
+    {
+      "titulo": "Más allá del horizonte",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/M%C3%A1s%20all%C3%A1%20del%20horizonte.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/M%C3%A1s%20all%C3%A1%20del%20horizonte.jpg",
+      "letra": "",
+      "duracion": 346.7
+    },
+    {
+      "titulo": "No de mi corazón ",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/No%20de%20mi%20coraz%C3%B3n%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/No%20de%20mi%20coraz%C3%B3n.jpg",
+      "letra": "[Intro – guitarra limpia con leve distorsión, bajo profundo y batería suave]\n\n[Verso 1 – voz femenina muy suave, cercana al micrófono]\n\nTodavía guardo tu abrigo,\ndetrás de la puerta azul.\nA veces creo que has venido,\ncuando la casa pierde su luz.\n\nLa taza sigue en el estante,\ndonde la dejaste al partir.\nY hay un silencio tan grande\nque ya no sé cómo dormir.\n\n[Verso 2 – melancólico, delicado]\n\nNo sé si alguna vez me extrañas,\nsi alguna noche piensas en mí.\nSi cuando el viento mueve las ramas\nrecuerdas lo que fuimos aquí.\n\nYo no he podido acostumbrarme\na no esperarte al regresar.\nHay tantas cosas que contarte\ny ya no tengo a quién llamar.\n\n[Estribillo – voz dulce, triste, ligeramente más intensa]\n\nY ya no duermes aquí,\nya no respiras junto a mí.\nPero en la sombra de mi habitación\ntodavía escucho tu corazón.\n\nY aunque me diga que terminó,\nmi corazón no lo comprendió.\nTe has ido lejos de mi vida,\npero no de mi corazón.\n\n[Interludio – guitarra eléctrica ambiental, bajo y batería contenida]\n[solo drums]\n[Verso 3 – voz casi susurrada]\n\nHe comenzado a acostumbrarme\na preparar café para una.\nPero hay momentos en que tu nombre\nme duele más que la ausencia misma.\n\nQuizás el tiempo haga su trabajo,\nquizás consiga sonreír.\nPero hay amores que se marchan\ny nunca terminan de partir.\n\n[Estribillo final – emotivo, sin elevar demasiado la voz]\n[orchesta ]\nY ya no duermes aquí,\nya no respiras junto a mí.\nPero en la sombra de mi habitación\ntodavía escucho tu corazón.\n\nY aunque me diga que terminó,\nmi corazón no lo comprendió.\nTe has ido lejos de mi vida,\npero no de mi corazón.\n\n[Outro – voz íntima, guitarra limpia y fade lento]\n\nTodavía guardo tu abrigo...\nNo sé por qué...\nNo sé por qué...\n\n[Final instrumental – guitarra melancólica, bajo profundo y batería desapareciendo lentamente]",
+      "duracion": 269.2
+    },
+    {
+      "titulo": "No necesito nada más",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/No%20necesito%20nada%20m%C3%A1s.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/No%20necesito%20nada%20m%C3%A1s.jpg",
+      "letra": "[Intro – guitarra acústica arpegiada, piano tenue y bajo profundo]\n\n[Verso 1 – voz masculina íntima y cálida]\n\nNo sé qué tienes en la mirada,\nque me desarma sin hablar.\nLlegaste sin pedir permiso,\ny ya no te puedo olvidar.\n\nHay algo extraño cuando te acercas,\nel mundo deja de girar.\nY hasta mis días más oscuros\nencuentran luz si tú estás.\n\n[Verso 2 – entra batería suave y guitarra eléctrica ambiental]\n\nNo necesito que me prometas\nun para siempre, una eternidad.\nMe basta el roce de tus manos,\ntu forma dulce de mirar.\n\nPorque contigo no tengo miedo\nde lo que pueda suceder.\nSi alguna vez pierdo el camino,\nquiero perderme junto a ti.\n\n[Estribillo – guitarras distorsionadas, voz abierta y emotiva]\n\nY es que me haces falta,\nmás de lo que puedo explicar.\nEres la calma y la tormenta,\nmi principio y mi final.\n\nY si mañana todo cambia,\nsi el mundo deja de girar,\nquiero tenerte entre mis brazos,\nno necesito nada más.\n\n[Interludio – riff grunge y solo melódico de guitarra eléctrica]\n\n[Verso 3 – vuelve la intimidad]\n\nA veces soy un hombre difícil,\nno sé muy bien cómo expresar\nque detrás de todas mis dudas\nhay tanto amor para entregar.\n\nNo tengo un cielo que ofrecerte,\nni un mundo hecho para los dos.\nPero si quieres caminar conmigo,\nte doy lo mejor que soy.\n\n[Estribillo final – mayor intensidad instrumental, voz firme sin gritar]\n\nY es que me haces falta,\nmás de lo que puedo explicar.\nEres la calma y la tormenta,\nmi principio y mi final.\n\nY si mañana todo cambia,\nsi el mundo deja de girar,\nquiero tenerte entre mis brazos,\nno necesito nada más.\n\n[Outro – voz suave, guitarra limpia y piano]\n\nNo necesito nada más...\nSi estás conmigo,\nno necesito nada más.\n\n[Final instrumental – guitarra eléctrica sostenida, bajo profundo y batería con cierre contundente]",
+      "duracion": 265.1
+    },
+    {
+      "titulo": "Paren la guerra",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Paren%20la%20guerra.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Paren%20la%20guerra.jpg",
+      "letra": "",
+      "duracion": 281.8
+    },
+    {
+      "titulo": "Que se escuche el corazón",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Que%20se%20escuche%20el%20coraz%C3%B3n.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Que%20se%20escuche%20el%20coraz%C3%B3n.jpg",
+      "letra": "",
+      "duracion": 363.7
+    },
+    {
       "titulo": "Radio-Metal",
       "ritmo": "Rock",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Radio-Metal.mp3",
@@ -74,12 +1090,188 @@
       "duracion": 62.2
     },
     {
-      "titulo": "Un fantasma",
-      "ritmo": "Metal",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Metal/Un%20fantasma%20.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Un%20fantasma.jpg",
+      "titulo": "Reina del Son",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Reina%20del%20Son.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Reina%20del%20Son.jpg",
+      "letra": "[Intro – Long instrumental]\n[Latin percussion, congas and timbales]\n[Deep melodic bass counterpoint]\n[Electric guitar blues phrases]\n[Hammond organ atmosphere]\n\n[Verse 1]\nLlega la noche,\nse enciende el sol.\nMueve su cuerpo,\nlate el tambor.\n\nPiel de canela,\nfuego y pasión.\nBaila despacio,\nsin explicación.\n\n[Instrumental Break]\n[Electric guitar lead – bluesy Latin phrasing]\n[Congas and bass in rhythmic counterpoint]\n\n[Verse 2]\nMueve las manos,\ngira al compás.\nToda la pista\nquiere bailar.\n\nOjos de fuego,\ndulce mirar.\nTiene en sus pasos\nmagia tropical.\n\n[Chorus – Male lead with backing vocals]\nBaila, baila, mujer.\n(Baila, baila)\nDéjate llevar.\n(Baila, baila)\nBaila, baila otra vez.\n(Una vez más)\n\n[Long Instrumental Section]\n[Extended electric guitar solo]\n[Hammond organ responses]\n[Congas, timbales and bass interplay]\n[Percussion builds gradually]\n\n[Verse 3]\nSu pelo vuela,\nvuela al girar.\nLa luna mira,\nla ve bailar.\n\nNoche morena,\nritmo y calor.\nElla es la reina,\nreina del son.\n\n[Final Chorus – Layered backing vocals]\nBaila, baila, mujer.\n(Baila, baila)\nNo dejes de bailar.\n(Baila, baila)\nBaila, baila otra vez.\n(Una vez más)\n\n[Outro – Extended instrumental]\n[Expressive electric guitar solo]\n[Hammond organ and percussion]\n[Slow rhythmic ending]",
+      "duracion": 295.6
+    },
+    {
+      "titulo": "Rock & Roll Solitario",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Rock%20%26%20Roll%20Solitario.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Rock%20%26%20Roll%20Solitario.jpg",
       "letra": "",
-      "duracion": 226.8
+      "duracion": 94.7
+    },
+    {
+      "titulo": "Rockingbag I",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Rockingbag%20I.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Rockingbag%20I.jpg",
+      "letra": "",
+      "duracion": 118.9
+    },
+    {
+      "titulo": "Rockingbag II",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Rockingbag%20II.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Rockingbag%20II.jpg",
+      "letra": "",
+      "duracion": 136.5
+    },
+    {
+      "titulo": "Rockola I",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Rockola%20I.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Rockola%20I.jpg",
+      "letra": "",
+      "duracion": 218.5
+    },
+    {
+      "titulo": "Rockola II",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Rockola%20II.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Rockola%20II.jpg",
+      "letra": "",
+      "duracion": 239.7
+    },
+    {
+      "titulo": "Sentido interor",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Sentido%20interor.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Sentido%20interor.jpg",
+      "letra": "",
+      "duracion": 259.7
+    },
+    {
+      "titulo": "Sigue el tambor",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Sigue%20el%20tambor.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Sigue%20el%20tambor.jpg",
+      "letra": "",
+      "duracion": 273.9
+    },
+    {
+      "titulo": "Somos raíz ",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Somos%20ra%C3%ADz%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Somos%20ra%C3%ADz.jpg",
+      "letra": "",
+      "duracion": 181.5
+    },
+    {
+      "titulo": "Todo es ahora",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Todo%20es%20ahora.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Todo%20es%20ahora.jpg",
+      "letra": "",
+      "duracion": 349.2
+    },
+    {
+      "titulo": "Torero",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Torero.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Torero.jpg",
+      "letra": "",
+      "duracion": 380.5
+    },
+    {
+      "titulo": "Tren a Rancagua ",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Tren%20a%20Rancagua%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Tren%20a%20Rancagua.jpg",
+      "letra": "",
+      "duracion": 115.1
+    },
+    {
+      "titulo": "Vivir ahora",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Vivir%20ahora.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Vivir%20ahora.jpg",
+      "letra": "",
+      "duracion": 204.2
+    },
+    {
+      "titulo": "Volver a niño",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Volver%20a%20ni%C3%B1o.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Volver%20a%20ni%C3%B1o.jpg",
+      "letra": "",
+      "duracion": 265.5
+    },
+    {
+      "titulo": "Voy andando",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Voy%20andando.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Voy%20andando.jpg",
+      "letra": "",
+      "duracion": 163.4
+    },
+    {
+      "titulo": "Y el mar",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Y%20el%20mar.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Y%20el%20mar.jpg",
+      "letra": "",
+      "duracion": 195.2
+    },
+    {
+      "titulo": "Radio-Metal",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Radio-Metal.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Radio-Metal.jpg",
+      "letra": "",
+      "duracion": 62.2
+    },
+    {
+      "titulo": "camina ya",
+      "ritmo": "Metal",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Metal/camina%20ya.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/camina%20ya.jpg",
+      "letra": "",
+      "duracion": 114.1
+    },
+    {
+      "titulo": "camina",
+      "ritmo": "Metal",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Metal/camina.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/camina.jpg",
+      "letra": "",
+      "duracion": 94.8
+    },
+    {
+      "titulo": "Devuélvan la paz",
+      "ritmo": "Metal",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Metal/Devu%C3%A9lvan%20la%20paz.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Devu%C3%A9lvan%20la%20paz.jpg",
+      "letra": "",
+      "duracion": 248.4
+    },
+    {
+      "titulo": "hey hey",
+      "ritmo": "Metal",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Metal/hey%20hey.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/hey%20hey.jpg",
+      "letra": "",
+      "duracion": 212.9
+    },
+    {
+      "titulo": "La marcha incesante",
+      "ritmo": "Metal",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Metal/La%20marcha%20incesante.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/La%20marcha%20incesante.jpg",
+      "letra": "",
+      "duracion": 193.3
+    },
+    {
+      "titulo": "Lo metieron",
+      "ritmo": "Metal",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Metal/Lo%20metieron.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Lo%20metieron.jpg",
+      "letra": "",
+      "duracion": 193.7
     },
     {
       "titulo": "Rabia",
@@ -88,6 +1280,262 @@
       "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Rabia.jpg",
       "letra": "",
       "duracion": 99.4
+    },
+    {
+      "titulo": "Un fantasma ",
+      "ritmo": "Metal",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Metal/Un%20fantasma%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Un%20fantasma.jpg",
+      "letra": "",
+      "duracion": 226.8
+    },
+    {
+      "titulo": "Radio-Cumbia",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Radio-Cumbia.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Radio-Cumbia.jpg",
+      "letra": "",
+      "duracion": 62.5
+    },
+    {
+      "titulo": "A mí no me engrupís",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/A%20m%C3%AD%20no%20me%20engrup%C3%ADs.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/A%20m%C3%AD%20no%20me%20engrup%C3%ADs.jpg",
+      "letra": "",
+      "duracion": 165
+    },
+    {
+      "titulo": "Ando brava",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Ando%20brava.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Ando%20brava.jpg",
+      "letra": "",
+      "duracion": 166.5
+    },
+    {
+      "titulo": "Con estilo",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Con%20estilo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Con%20estilo.jpg",
+      "letra": "",
+      "duracion": 159.1
+    },
+    {
+      "titulo": "El fresco de mi ex",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/El%20fresco%20de%20mi%20ex.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20fresco%20de%20mi%20ex.jpg",
+      "letra": "",
+      "duracion": 160.9
+    },
+    {
+      "titulo": "El granjero",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/El%20granjero.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20granjero.jpg",
+      "letra": "",
+      "duracion": 196.6
+    },
+    {
+      "titulo": "El negro de la feria",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/El%20negro%20de%20la%20feria.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20negro%20de%20la%20feria.jpg",
+      "letra": "",
+      "duracion": 214
+    },
+    {
+      "titulo": "El tío Nano",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/El%20t%C3%ADo%20Nano.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20t%C3%ADo%20Nano.jpg",
+      "letra": "",
+      "duracion": 189.3
+    },
+    {
+      "titulo": "En el barrio",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/En%20el%20barrio.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/En%20el%20barrio.jpg",
+      "letra": "",
+      "duracion": 234.8
+    },
+    {
+      "titulo": "en el Cesfam",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/en%20el%20Cesfam.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/en%20el%20Cesfam.jpg",
+      "letra": "",
+      "duracion": 262.4
+    },
+    {
+      "titulo": "Frena compadre",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Frena%20compadre.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Frena%20compadre.jpg",
+      "letra": "",
+      "duracion": 172.9
+    },
+    {
+      "titulo": "La reina del barrio",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/La%20reina%20del%20barrio.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/La%20reina%20del%20barrio.jpg",
+      "letra": "",
+      "duracion": 178.1
+    },
+    {
+      "titulo": "Me enamoré",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Me%20enamor%C3%A9.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Me%20enamor%C3%A9.jpg",
+      "letra": "",
+      "duracion": 191
+    },
+    {
+      "titulo": "Me importa una raja",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Me%20importa%20una%20raja.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Me%20importa%20una%20raja.jpg",
+      "letra": "",
+      "duracion": 167.8
+    },
+    {
+      "titulo": "Mi suegra",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Mi%20suegra.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Mi%20suegra.jpg",
+      "letra": "",
+      "duracion": 158.7
+    },
+    {
+      "titulo": "No me paran",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/No%20me%20paran.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/No%20me%20paran.jpg",
+      "letra": "",
+      "duracion": 183.4
+    },
+    {
+      "titulo": "Qué fué eso",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Qu%C3%A9%20fu%C3%A9%20eso.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Qu%C3%A9%20fu%C3%A9%20eso.jpg",
+      "letra": "",
+      "duracion": 126.8
+    },
+    {
+      "titulo": "Que manera de tomar",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Que%20manera%20de%20tomar.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Que%20manera%20de%20tomar.jpg",
+      "letra": "",
+      "duracion": 179
+    },
+    {
+      "titulo": "Se creía rey",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Se%20cre%C3%ADa%20rey.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Se%20cre%C3%ADa%20rey.jpg",
+      "letra": "",
+      "duracion": 166.9
+    },
+    {
+      "titulo": "Tres peldaños",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Tres%20pelda%C3%B1os.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Tres%20pelda%C3%B1os.jpg",
+      "letra": "",
+      "duracion": 148.1
+    },
+    {
+      "titulo": "Viejito uñas rojas",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Viejito%20u%C3%B1as%20rojas.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Viejito%20u%C3%B1as%20rojas.jpg",
+      "letra": "",
+      "duracion": 167
+    },
+    {
+      "titulo": "Déjala ir",
+      "ritmo": "Salsa",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/D%C3%A9jala%20ir.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/D%C3%A9jala%20ir.jpg",
+      "letra": "",
+      "duracion": 187.5
+    },
+    {
+      "titulo": "El abuelo",
+      "ritmo": "Salsa",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/El%20abuelo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20abuelo.jpg",
+      "letra": "",
+      "duracion": 195
+    },
+    {
+      "titulo": "El vecino sapo",
+      "ritmo": "Salsa",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/El%20vecino%20sapo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20vecino%20sapo.jpg",
+      "letra": "",
+      "duracion": 203.8
+    },
+    {
+      "titulo": "Fiesta en el edificio",
+      "ritmo": "Salsa",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/Fiesta%20en%20el%20edificio.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Fiesta%20en%20el%20edificio.jpg",
+      "letra": "",
+      "duracion": 235.5
+    },
+    {
+      "titulo": "Mi compadre se agrandó",
+      "ritmo": "Salsa",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/Mi%20compadre%20se%20agrand%C3%B3.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Mi%20compadre%20se%20agrand%C3%B3.jpg",
+      "letra": "",
+      "duracion": 223.7
+    },
+    {
+      "titulo": "No te hagas el sordo",
+      "ritmo": "Salsa",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/No%20te%20hagas%20el%20sordo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/No%20te%20hagas%20el%20sordo.jpg",
+      "letra": "",
+      "duracion": 210.2
+    },
+    {
+      "titulo": "Por el puente",
+      "ritmo": "Salsa",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/Por%20el%20puente.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Por%20el%20puente.jpg",
+      "letra": "",
+      "duracion": 193.1
+    },
+    {
+      "titulo": "retiembla !",
+      "ritmo": "Salsa",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/retiembla%20!.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/retiembla%20!.jpg",
+      "letra": "",
+      "duracion": 231.5
+    },
+    {
+      "titulo": "Somos cinco",
+      "ritmo": "Salsa",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/Somos%20cinco.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Somos%20cinco.jpg",
+      "letra": "",
+      "duracion": 219.1
+    },
+    {
+      "titulo": "Travesuras en los 60s",
+      "ritmo": "Salsa",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/Travesuras%20en%20los%2060s.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Travesuras%20en%20los%2060s.jpg",
+      "letra": "",
+      "duracion": 339.3
     },
     {
       "titulo": "Radio-Tango",
@@ -106,12 +1554,52 @@
       "duracion": 207.7
     },
     {
+      "titulo": "Destino de abril",
+      "ritmo": "Tango",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Tango/Destino%20de%20abril.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Destino%20de%20abril.jpg",
+      "letra": "",
+      "duracion": 210.7
+    },
+    {
+      "titulo": "El tango de mi viejo",
+      "ritmo": "Tango",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Tango/El%20tango%20de%20mi%20viejo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20tango%20de%20mi%20viejo.jpg",
+      "letra": "",
+      "duracion": 226.6
+    },
+    {
       "titulo": "Jorge amigo",
       "ritmo": "Tango",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Tango/Jorge%20amigo.mp3",
       "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Jorge%20amigo.jpg",
       "letra": "",
       "duracion": 209.8
+    },
+    {
+      "titulo": "l'avi Jaume",
+      "ritmo": "Tango",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Tango/l'avi%20Jaume.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/l'avi%20Jaume.jpg",
+      "letra": "",
+      "duracion": 186.4
+    },
+    {
+      "titulo": "Que saben ellos",
+      "ritmo": "Tango",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Tango/Que%20saben%20ellos.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Que%20saben%20ellos.jpg",
+      "letra": "",
+      "duracion": 234.6
+    },
+    {
+      "titulo": "Qué suerte haber sido tu amigo",
+      "ritmo": "Tango",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Tango/Qu%C3%A9%20suerte%20haber%20sido%20tu%20amigo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Qu%C3%A9%20suerte%20haber%20sido%20tu%20amigo.jpg",
+      "letra": "[Intro instrumental – Bandoneón solista, piano y cuerdas suaves]\n\n[Verse 1]\nCuántas noches se quedaron\ndormidas en el recuerdo,\ncuántas risas compartidas,\ncuántos sueños sin dueño.\n\nAquel puente fue testigo\nde conversaciones eternas,\ny una pelota gastada\nnos regalaba la fiesta.\n\n[Verse 2]\nFuimos dueños de las calles,\ndel tiempo y de las esquinas,\ncompañeros de aventuras,\nde tantas horas vividas.\n\nPero un día, casi sin verlo,\ncada cual tomó su rumbo,\nnos reclamaron los hijos,\nel trabajo y este mundo.\n\n[Instrumental – Bandoneón y violines]\n\n[Verse 3]\nY entre obligaciones y años,\nsin querer fuimos perdiendo\nesas tardes de los amigos,\nesos abrazos sinceros.\n\nHoy los años pasan rápido,\ncomo trenes en la vía,\ny al mirar hacia atrás descubro\ncuánta vida compartida.\n\n[Verse 4 – Más intenso, emotivo]\nEstoy parado en el andén,\ncon mi equipaje dispuesto,\nsin saber cuándo será\nque partirá nuestro tren.\n\nY quisiera dar las gracias\na la vida por lo vivido,\npor cada amigo que tuve,\npor cada abrazo recibido.\n\n[Bridge – Voz íntima, piano y bandoneón]\nPero hay uno que merece\nun lugar entre mis recuerdos,\nese que nunca hizo falta\nllamar para saberlo.\n\n[Final – Gran desarrollo orquestal]\nPorque estuvo cuando había\nrisas, penas y derrotas,\ncuando el camino era largo\ny la esperanza, tan poca.\n\nY si tengo que hacer balance\nde esta vida que he vivido,\nentre todas mis fortunas,\n¡qué suerte haber sido tu amigo!\n\n[Outro – Bandoneón solista, lento y nostálgico]",
+      "duracion": 249.7
     }
   ]
 }
