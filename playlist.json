@@ -2,92 +2,12 @@
   "version": "1.2",
   "canciones": [
     {
-      "titulo": "RA",
-      "ritmo": "Webeo",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Webeo/RA.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/RA.jpg",
-      "letra": "",
-      "duracion": 9.3
-    },
-    {
-      "titulo": "Abre la puerta",
+      "titulo": "Radio-Años-60s",
       "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Abre%20la%20puerta.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Abre%20la%20puerta.jpg",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Radio-A%C3%B1os-60s.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Radio-A%C3%B1os-60s.jpg",
       "letra": "",
-      "duracion": 240
-    },
-    {
-      "titulo": "Amanece",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Amanece.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Amanece.jpg",
-      "letra": "",
-      "duracion": 198.6
-    },
-    {
-      "titulo": "Aquel verano",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Aquel%20verano.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Aquel%20verano.jpg",
-      "letra": "",
-      "duracion": 205.1
-    },
-    {
-      "titulo": "RA",
-      "ritmo": "Webeo",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Webeo/RA.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/RA.jpg",
-      "letra": "",
-      "duracion": 9.3
-    },
-    {
-      "titulo": "Aquella chica del café ",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Aquella%20chica%20del%20caf%C3%A9%20.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Aquella%20chica%20del%20caf%C3%A9.jpg",
-      "letra": "",
-      "duracion": 211.3
-    },
-    {
-      "titulo": "Aquella Noche",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Aquella%20Noche.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Aquella%20Noche.jpg",
-      "letra": "AQUELLA NOCHE\n\n[Intro instrumental – guitarra eléctrica con trémolo, bajo y batería suave]\n\n[Verso 1 – voz masculina íntima]\n\nLa calle gris,\nla luna y tú.\nUn viejo bar,\nsu tenue luz.\n\nTe vi llegar,\nte vi mirar.\nY algo en mí\nvolvió a despertar.\n\n[Verso 2]\n\nTu caminar,\ntu forma de ser.\nTu pelo al viento,\ntu manera de ver.\n\nNo hubo palabras,\nno hubo razón.\nSolo una mirada\ny una extraña emoción.\n\n[Instrumental – guitarra con trémolo y bajo melódico]\n\n[Verso 3]\n\nPasó el reloj,\nla noche siguió.\nLa gente se fue,\nla música terminó.\n\nY allí quedé,\nsin comprender,\npor qué tu imagen\nno podía perder.\n\n[Puente – misma voz, eco sutil]\n\nAquella noche...\nAquella noche...\n\nVolverá quizás...\nVolverá quizás...\n\n[Verso 4 – voz suave, ligeramente ondulante]\n\nHoy vuelvo al bar,\nla misma canción.\nLa misma mesa,\nla misma ilusión.\n\nPero no estás,\nya no vendrás.\nY aquella noche\nno volverá jamás.\n\n[Outro – guitarra con trémolo y voz con eco]\n\nAquella noche...\nAquella noche...\n\nNo volverá...\nNo volverá...\n\n[Fade out instrumental largo]",
-      "duracion": 224.9
-    },
-    {
-      "titulo": "Bajando",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Bajando.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Bajando.jpg",
-      "letra": "[Instrumental Intro – 16 bars]\n[Clean electric guitar introduces the main melodic motif]\n\n[Main Theme A – 16 bars]\n[Melodic lead guitar, bass and drums enter]\n\n[Theme B – 16 bars]\n[Higher melodic phrases, second guitar responses]\n\n[Electric Guitar Solo – 16 bars]\n[Expressive vintage tremolo and melodic variations]\n\n[Return to Main Theme A – 16 bars]\n[Full band, bass stronger dynamics]\n\n[Outro – 8 bars]\n[Main melodic motif returns]\n[Descending guitar phrase]\n[Final sustained F#m chord]",
-      "duracion": 195.1
-    },
-    {
-      "titulo": "Bajo las luces del salón ",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Bajo%20las%20luces%20del%20sal%C3%B3n%20.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Bajo%20las%20luces%20del%20sal%C3%B3n.jpg",
-      "letra": "",
-      "duracion": 187
-    },
-    {
-      "titulo": "Calcetineras",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Calcetineras.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Calcetineras.jpg",
-      "letra": "",
-      "duracion": 129.3
-    },
-    {
-      "titulo": "Chica del portal",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Chica%20del%20portal.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Chica%20del%20portal.jpg",
-      "letra": "",
-      "duracion": 151.6
+      "duracion": 16.5
     },
     {
       "titulo": "Chica yo-yo",
@@ -98,204 +18,100 @@
       "duracion": 132.3
     },
     {
-      "titulo": "Cuando te perdí ",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Cuando%20te%20perd%C3%AD%20.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Cuando%20te%20perd%C3%AD.jpg",
+      "titulo": "Radio-Cumbia",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Radio-Cumbia.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Radio-Cumbia.jpg",
       "letra": "",
-      "duracion": 284.6
+      "duracion": 62.5
     },
     {
-      "titulo": "Descendente",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Descendente.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Descendente.jpg",
+      "titulo": "en el Cesfam",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/en%20el%20Cesfam.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/en%20el%20Cesfam.jpg",
       "letra": "",
-      "duracion": 180
+      "duracion": 262.4
     },
     {
-      "titulo": "Dime Cositas Dulces",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Dime%20Cositas%20Dulces.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Dime%20Cositas%20Dulces.jpg",
-      "letra": "[Intro]\n\n[Verse 1]\nEsta noche vas a venir,\ny no me dejes esperar,\nya la luna va a salir\ny yo quiero verte bailar\n\n[Chorus]\nDime cositas dulces,\ndímelas al oído,\ndime cositas dulces,\nesta noche eres mío\n\n[Verse 2]\nLa radio suena sin parar,\ntraigo puesto mi vestido,\ny mi pecho está encendido,\ny quiero esta noche bailar\n\n[Chorus]\nDime cositas dulces,\ndímelas al oído,\ndime cositas dulces,\nesta noche eres mío\n\n[Instrumental break: saxophone solo]\n\n[Bridge]\nUna noche, nada más,\npara quererte sin fin,\nmañana ya se verá,\nhoy me toca ser feliz\n\n[Chorus]\nDime cositas dulces,\ndímelas al oído,\ndime cositas dulces,\nesta noche eres mío\n\n[Outro]\nDulces cositas, sí,\nesta noche, eres mío",
-      "duracion": 152.7
-    },
-    {
-      "titulo": "Dime qué sí ",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Dime%20qu%C3%A9%20s%C3%AD%20.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Dime%20qu%C3%A9%20s%C3%AD.jpg",
+      "titulo": "El negro de la feria",
+      "ritmo": "Cumbia",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/El%20negro%20de%20la%20feria.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20negro%20de%20la%20feria.jpg",
       "letra": "",
-      "duracion": 172.4
+      "duracion": 214
     },
     {
-      "titulo": "Donde te escondes",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Donde%20te%20escondes.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Donde%20te%20escondes.jpg",
+      "titulo": "Radio-Rock",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Radio-Rock.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Radio-Rock.jpg",
       "letra": "",
-      "duracion": 198.5
+      "duracion": 32.1
     },
     {
-      "titulo": "El sol nos encontrará ",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/El%20sol%20nos%20encontrar%C3%A1%20.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20sol%20nos%20encontrar%C3%A1.jpg",
+      "titulo": "Generación de diamante",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Generaci%C3%B3n%20de%20diamante%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Generaci%C3%B3n%20de%20diamante.jpg",
       "letra": "",
-      "duracion": 237.4
+      "duracion": 126.7
     },
     {
-      "titulo": "Esta Noche",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Esta%20Noche.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Esta%20Noche.jpg",
-      "letra": "[Intro]\n\n[Verse 1]\nHoy la noche tiene su son,\ny me llama mi corazón,\nme voy con ganas de bailar,\ny en tus brazos voy a soñar\n\n[Chorus]\nEsta noche, esta noche,\nbaila, baila conmigo,\nesta noche, esta noche,\nyo me quedo contigo\n\n[Verse 2]\nTengo un vestido de color,\ny en mi pelo traigo una flor,\nel reloj no puede frenar,\nhoy nadie me puede parar\n\n[Chorus]\nEsta noche, esta noche,\nbaila, baila conmigo,\nesta noche, esta noche,\nyo me quedo contigo\n\n[Instrumental break: saxophone solo]\n\n[Bridge]\nMañana no sé qué haré,\nhoy solo quiero bailar,\npero esta noche, lo sé,\nes la noche de soñar\n\n[Chorus]\nEsta noche, esta noche,\nbaila, baila conmigo,\nesta noche, esta noche,\nyo me quedo contigo\n\n[Outro]\nEsta noche, esta noche,\nyo me quedo contigo",
-      "duracion": 148
-    },
-    {
-      "titulo": "Hasta el amanecer",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Hasta%20el%20amanecer.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Hasta%20el%20amanecer.jpg",
+      "titulo": "Grita y Salta",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Grita%20y%20Salta.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Grita%20y%20Salta.jpg",
       "letra": "",
-      "duracion": 150.4
+      "duracion": 181.9
     },
     {
-      "titulo": "Huellas de aquel lugar",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Huellas%20de%20aquel%20lugar.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Huellas%20de%20aquel%20lugar.jpg",
+      "titulo": "Radio-Metal",
+      "ritmo": "Rock",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Rock/Radio-Metal.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Radio-Metal.jpg",
       "letra": "",
-      "duracion": 293.6
+      "duracion": 62.2
     },
     {
-      "titulo": "Juanito Despistadito",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Juanito%20Despistadito.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Juanito%20Despistadito.jpg",
-      "letra": "[Intro]\n[Spoken female voice]\n¡Uno, dos!\n¡Uno, dos, tres, cuatro!\n¡Hey! ¡Hey!\n\n[Verse 1]\n[G] Les contaré de mi novio Juan,\n[G] siempre me dice que llegará.\n[G] Pero una hora suele tardar,\n[G] y cuando llega se pone a bailar.\n\n[Chant – Group backing vocals]\n[C] ¡Ay, Juanito!\n[G] ¡Ay, Juanito!\n[D] ¡Ay, Juanito!\n[C] ¡Ay, Juanito!\n[G] ¡Qué despistadito!\n\n[Verse 2]\n[G] Le di una cita junto al café,\n[G] llegó a la plaza, ¡no sé por qué!\n[G] Buscó mi cara por todo el lugar,\n[G] ¡y yo en la mesa lo vi pasar!\n\n[Chant – Group backing vocals]\n[C] ¡Ay, Juanito!\n[G] ¡Ay, Juanito!\n[D] ¡Ay, Juanito!\n[C] ¡Ay, Juanito!\n[G] ¡Qué despistadito!\n\n[Instrumental]\n[Driving bass riff, electric guitar solo, drums]\n\n[Verse 3]\n[G] Ayer me dijo: te invitaré,\n[G] a una cenita, te llevaré.\n[G] Llegó con flores, ¡qué emoción!\n[G] ¡Y se olvidó hasta del pantalón!\n\n[Chant – Group backing vocals]\n[C] ¡Ay, Juanito!\n[G] ¡Ay, Juanito!\n[D] ¡Ay, Juanito!\n[C] ¡Ay, Juanito!\n[G] ¡Qué despistadito!\n\n[Outro]\n[G] ¡Ay, Juanito!\n[G] ¡Ay, Juanito!\n[C] ¡Pobre Juan!\n[G] ¡Ja, ja, ja!",
-      "duracion": 116.5
-    },
-    {
-      "titulo": "Junto a mi",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Junto%20a%20mi.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Junto%20a%20mi.jpg",
+      "titulo": "Un fantasma",
+      "ritmo": "Metal",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Metal/Un%20fantasma%20.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Un%20fantasma.jpg",
       "letra": "",
-      "duracion": 169
+      "duracion": 226.8
     },
     {
-      "titulo": "La luz de aquel farol",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/La%20luz%20de%20aquel%20farol.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/La%20luz%20de%20aquel%20farol.jpg",
+      "titulo": "Rabia",
+      "ritmo": "Metal",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Metal/Rabia.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Rabia.jpg",
       "letra": "",
-      "duracion": 256.4
+      "duracion": 99.4
     },
     {
-      "titulo": "Luces que tiemblan",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Luces%20que%20tiemblan.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Luces%20que%20tiemblan.jpg",
-      "letra": "LUCES QUE TIEMBLAN\n\n\n\n[Verso 1 – voz masculina íntima]\n\nTe vi pasar,\ncasi sin mirar.\nLa noche azul,\nte envolvía de luz.\n\nY sin saber,\npor qué razón,\nalgo cambió\nen mi interior.\n\n[Segunda voz – eco suave]\nEn mi interior...\nEn mi interior...\n\n[Verso 2 – voz principal]\n\nNo pregunté,\nno quise hablar.\nSolo esperé\nverte regresar.\n\nHabía en ti,\nalgo especial.\nUna señal\ndifícil de explicar.\n\n[Coros masculinos suaves]\nDifícil de explicar...\nDe explicar...\n\n[Instrumental – guitarra con trémolo, órgano discreto]\n\n[Verso 3 – voz principal]\n\nY al caminar,\nte vi sonreír.\nPor un instante\nte sentí junto a mí.\n\nNo sé quién eres,\nni dónde vas.\nPero esta noche\nno te olvidarás.\n\n[Puente – voces superpuestas]\n\nVoz principal:\nQuédate un poco más...\n\nSegunda voz:\nUn poco más...\n\nVoz principal:\nDéjame imaginar...\n\nSegunda voz:\nImaginar...\n\n[Final – crescendo instrumental y vocal]\n\nVoz principal:\nHay luces que tiemblan...\n\nCoros:\nQue tiemblan...\nQue tiemblan...\n\nVoz principal:\nHay sueños que vuelven...\n\nCoros:\nQue vuelven...\nQue vuelven...\n\n[Outro – voces con trémolo creciente, eco y superposición]\n\nAaaaaah... aaaaaah...\nUuuuuuh... uuuuuuh...\n\nLuces... luces...\nQue tiemblan...\nQue tiemblan...\n\n[Fade out largo con guitarra y voces ondulantes]",
-      "duracion": 245
-    },
-    {
-      "titulo": "Que no se acabe",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Que%20no%20se%20acabe.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Que%20no%20se%20acabe.jpg",
+      "titulo": "Radio-Tango",
+      "ritmo": "Tango",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Tango/Radio-Tango.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Radio-Tango.jpg",
       "letra": "",
-      "duracion": 147.3
+      "duracion": 15
     },
     {
-      "titulo": "Sal y sol",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Sal%20y%20sol.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Sal%20y%20sol.jpg",
-      "letra": "",
-      "duracion": 286.7
+      "titulo": "Bailo con mi pena sola",
+      "ritmo": "Tango",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Tango/Bailo%20con%20mi%20pena%20sola.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Bailo%20con%20mi%20pena%20sola.jpg",
+      "letra": "[Intro: dramatic bandoneon, slow and tense]\n\n[Verse 1]\nUn fuelle llora en la calle,\ny la lluvia, que no cesa,\nme recuerda tu mirada,\nya no quedan más promesas\n\n[Chorus]\nBailo con mi pena sola,\nmientras tiembla el bandoneón,\nbailo con tu voz, tu aroma,\ny se rompe en dos mi canción\n\n[Verse 2]\nCamino solo, sin rumbo,\nmi sombra va por la acera,\ntango, dolor y misterio,\ny la noche que me espera\n\n[Chorus]\nBailo con mi pena sola,\nmientras tiembla el bandoneón,\nbailo con tu voz, tu aroma,\ny se rompe en dos mi canción\n\n[Instrumental break: bandoneon and electric bass, jazz fusion]\n\n[Bridge]\nY si vuelves, ya no vuelvas,\nque mi puerta está cerrada,\nel tango es dolor que queda\ny yo bailo hasta el alba\n\n[Chorus]\nBailo con mi pena sola,\nmientras tiembla el bandoneón,\nbailo con tu voz, tu aroma,\ny se rompe en dos mi canción\n\n[Outro]\nBailo con mi pena sola,\nse rompe en dos mi canción",
+      "duracion": 207.7
     },
     {
-      "titulo": "Salta, salta",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Salta%2C%20salta.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Salta%2C%20salta.jpg",
+      "titulo": "Jorge amigo",
+      "ritmo": "Tango",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Tango/Jorge%20amigo.mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Jorge%20amigo.jpg",
       "letra": "",
-      "duracion": 300
-    },
-    {
-      "titulo": "Se me escapa ésta canción ",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Se%20me%20escapa%20%C3%A9sta%20canci%C3%B3n%20.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Se%20me%20escapa%20%C3%A9sta%20canci%C3%B3n.jpg",
-      "letra": "",
-      "duracion": 173.8
-    },
-    {
-      "titulo": "Todavía estás aquí",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Todav%C3%ADa%20est%C3%A1s%20aqu%C3%AD.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Todav%C3%ADa%20est%C3%A1s%20aqu%C3%AD.jpg",
-      "letra": "",
-      "duracion": 323.6
-    },
-    {
-      "titulo": "Un motivo en Fa",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Un%20motivo%20en%20Fa.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Un%20motivo%20en%20Fa.jpg",
-      "letra": "",
-      "duracion": 190.1
-    },
-    {
-      "titulo": "Una carta para ti",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Una%20carta%20para%20ti.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Una%20carta%20para%20ti.jpg",
-      "letra": "",
-      "duracion": 124.8
-    },
-    {
-      "titulo": "Ven conmigo a bailar",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Ven%20conmigo%20a%20bailar.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Ven%20conmigo%20a%20bailar.jpg",
-      "letra": "",
-      "duracion": 157.6
-    },
-    {
-      "titulo": "Verano de amor",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Verano%20de%20amor.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Verano%20de%20amor.jpg",
-      "letra": "",
-      "duracion": 180.5
-    },
-    {
-      "titulo": "Voy a bailar",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Voy%20a%20bailar.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Voy%20a%20bailar.jpg",
-      "letra": "",
-      "duracion": 149.1
-    },
-    {
-      "titulo": "Vuelve a mi",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Vuelve%20a%20mi.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Vuelve%20a%20mi.jpg",
-      "letra": "",
-      "duracion": 216.9
-    },
-    {
-      "titulo": "Y no estás ",
-      "ritmo": "Años 60s",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/A%C3%B1os%2060s/Y%20no%20est%C3%A1s%20.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Y%20no%20est%C3%A1s.jpg",
-      "letra": "",
-      "duracion": 198
+      "duracion": 209.8
     }
   ]
 }
